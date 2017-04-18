@@ -1,0 +1,149 @@
+ <div>
+    <jsonld data-json="jsonId"></jsonld>
+    <!--Image banner-->
+    <div class="container eventHeader">
+        <div class="row">
+            <div class="col-md-7 col-sm-7">
+                <div id="thBanner" ng-if="eventData.treasureHuntImgUrl[0]" style="margin-top:3%;">
+                    <img class="thBanner" ng-src="{{eventData.treasureHuntImgUrl[0]}}" alt="{{eventData.treasureHuntName}}">
+                </div>
+            </div>
+            <div class="col-md-5 col-sm-5">
+                <div class="thTitle">{{eventData.treasureHuntName}}</div><br/>
+                <div class="generalList" ng-if="eventData.eventDate"><i class="icon-calendar"></i>&nbsp;&nbsp;{{eventData.eventDate}}</div>
+                <br/>
+                <div class="generalList" ng-if="eventData.eventTimings"><i class="icon-clock"></i>&nbsp;&nbsp;{{eventData.eventTimings}}</div>
+                <br/>
+                <div class="generalList" ng-if="eventData.corporateName"><i class="icon-user-1"></i>&nbsp;&nbsp;{{eventData.corporateName}}</div>
+                <br/>
+                <i class="icon-tags" ng-if="eventData.treasureHuntTags[0]"></i>
+                <span class="eventTags" ng-repeat="item in eventData.treasureHuntTags">{{item.tagName}}</span><br/><br/>
+                <div ng-if="eventData.eventId">
+                    <div style="font-size:18px;" ng-if="eventData.treasureHuntPrice"><span style="font-size:22px;">&#x20B9;</span>&nbsp;{{eventData.treasureHuntPrice}} per team</div>
+                    <a ng-click="triggerBookingModal(eventData.eventId)">
+                        <img style='cursor: pointer;' src='https://assets.eventshigh.com/eh_pay.png'>
+                    </a>
+                </div>        
+            </div>
+        </div>
+    </div>
+    <!--TreasureHunt Name-->
+    <div class="container blockEvent" id="eventsInDetail">    
+        <br/><br/>
+         <!--Tabs-->
+        <ul class="nav nav-tabs" ng-if="eventData.treasureHuntDetails">
+            <li class="active menuStyle"><a data-toggle="tab" data-target="#menu0" ng-if="eventData.treasureHuntDetails">Quest</a></li>
+            <li class="menuStyle"><a data-toggle="tab" data-target="#menu1" ng-if="eventData.treasureHuntThings">Things To Do</a></li>
+            <li class="menuStyle"><a data-toggle="tab" data-target="#menu2" ng-if="eventData.howtoPlayInstructions">How to Play</a></li>
+            <li class="menuStyle"><a data-toggle="tab" data-target="#menu3" ng-if="eventData.treasureHuntHistory">History</a></li>
+            <li class="menuStyle"><a data-toggle="tab" data-target="#menu4" ng-if="eventData.treasureHuntWeather">Weather</a></li>
+            <li class="menuStyle"><a data-toggle="tab" data-target="#menu5" ng-if="eventData.treasureHuntTravel">Travel</a></li>
+            <li class="menuStyle"><a data-toggle="tab" data-target="#menu6" ng-if="eventData.treasureHuntFAQ" >FAQ</a></li>
+        </ul>
+        <div class="tab-content">
+            <div id="menu0" class="tab-pane fade in active">
+                <p ng-bind-html="eventData.treasureHuntDetails" style="font-size:14px;" class="item item-text-wrap" ellipsis></p>
+            </div>
+            <div id="menu1" class="tab-pane fade">
+                <p ng-bind-html="eventData.treasureHuntThings" style="font-size:14px;" class="item item-text-wrap" ellipsis></p>
+            </div>
+            <div id="menu2" class="tab-pane fade">
+                <p ng-bind-html="eventData.howtoPlayInstructions" style="font-size:14px;" class="item item-text-wrap" ellipsis></p>
+            </div>
+            <div id="menu3" class="tab-pane fade">
+                <p ng-bind-html="eventData.treasureHuntHistory" style="font-size:14px;" class="item item-text-wrap" ellipsis></p>
+            </div>
+            <div id="menu4" class="tab-pane fade"> 
+                <p ng-bind-html="eventData.treasureHuntWeather" style="font-size:14px;" class="item item-text-wrap" ellipsis></p>
+            </div>
+            <div id="menu5" class="tab-pane fade">
+                <p ng-bind-html="eventData.treasureHuntTravel" style="font-size:14px;" class="item item-text-wrap" ellipsis></p>
+            </div>
+            <div id="menu6" class="tab-pane fade">
+                <p ng-bind-html="eventData.treasureHuntFAQ" style="font-size:14px;" class="item item-text-wrap" ellipsis></p>
+            </div>
+        </div>
+        <center>
+            <div class="row">
+                <div class="col-md-6" ng-if="eventData.feedback.feedbackResponse[0].response">
+                    <div class="eventTestimonial">User Reviews for {{eventData.treasureHuntName}}</div>
+                    <div class="carousel slide" data-ride="carousel" id="quote-carousel">
+          
+                    <!-- Bottom Carousel Indicators -->
+                        <ol class="carousel-indicators">
+                            <li data-target="#quote-carousel" data-slide-to="0" class="active"></li>
+                            <li data-target="#quote-carousel" data-slide-to="1"></li>
+                            <li data-target="#quote-carousel" data-slide-to="2"></li>
+                        </ol>
+                    <!-- Carousel Slides / Quotes -->
+                        <div class="carousel-inner">
+                        <!-- Quote 1 -->
+                            <div class="item active">
+                                <div class="row">
+                                    <div class="col-sm-12">
+                                        <center>
+                                            <img class="img-circle" src="img/profile.png" style="width: 70px;height:70px;"><br/>
+                                            <p>&ldquo;{{eventData.feedback.feedbackResponse[0].response}}&rdquo;</p>
+                                            <small><strong>{{eventData.feedback.feedbackResponse[0].name}}</strong></small>
+                                        </center>    
+                                    </div>
+                                </div>
+                            </div>
+                        <!-- Quote 2 -->
+                            <div class="item">
+                                <div class="row">
+                                    <div class="col-sm-12">
+                                        <center>
+                                            <img class="img-circle" src="img/profile.png" style="width: 70px;height:70px;"><br/>
+                                            <p>&ldquo;{{eventData.feedback.feedbackResponse[1].response}}&rdquo;</p>
+                                            <small><strong>{{eventData.feedback.feedbackResponse[1].name}}</strong></small>
+                                        </center>    
+                                    </div>
+                                </div>
+                            </div>
+                        <!-- Quote 3 -->
+                            <div class="item">
+                                <div class="row">
+                                    <div class="col-sm-12">
+                                        <center>
+                                            <img class="img-circle" src="img/profile.png" style="width: 70px;height:70px;"><br/>
+                                            <p>&ldquo;{{eventData.feedback.feedbackResponse[2].response}}&rdquo;</p>
+                                            <small><strong>{{eventData.feedback.feedbackResponse[2].name}}</strong></small>
+                                        </center>    
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <br/><br/>
+                </div>
+                <div class="col-md-6" ng-if="eventData.galleryImages[0].url">
+                    <div class="eventTestimonial">GALLERY</div>
+                    <br/>
+                    <div class="carousel slide" data-ride="carousel" id="image-carousel">
+                        <ol class="carousel-indicators">
+                            <li data-target="#image-carousel" data-slide-to="0" class="active"></li>
+                            <li data-target="#image-carousel" data-slide-to="1"></li>
+                            <li data-target="#image-carousel" data-slide-to="2"></li>
+                            <li data-target="#image-carousel" data-slide-to="3"></li>
+                        </ol>
+                        <div class="carousel-inner">
+                            <div class="item" ng-repeat="item in eventData.galleryImages" ng-class="{active : $first}">
+                                <div class="row">
+                                    <div class="col-sm-12">
+                                        <center>
+                                            <img ng-src="{{item.url}}" style="width:80%;">
+                                        </center>    
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </center>
+         <br/><br/>
+        <div class="map" id="map" style="width:100%;height:300px;"></div>
+        <br/><br/>
+    </div>
+</div>

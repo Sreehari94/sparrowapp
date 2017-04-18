@@ -1,0 +1,672 @@
+{
+  "header": {
+    "status": {
+      "statusCode": 0,
+      "statusMessage": "Events page list found"
+    }
+  },
+  "body": {
+    "treasureHunts": [
+    {
+        "treasureHuntId": 83,
+        "thRank":14,
+        "treasureHuntDetails": null,
+        "treasureHuntHistory": null,
+        "treasureHuntFAQ":"<b>What is the event?</b><br/>&emsp;&emsp;A scavenger hunt covering approximately 2.5 kms around Central Bangalore (viz. Cubbon Park Metro, MG Road). Solve the clues, find the location, perform action, get next clue.. Repeat.<br/><br/><b>What do I need to play the game?</b><br/>&emsp;&emsp;Smartphone with 3 hours battery life, LOADS of enthusiasm to search and Find or ask and find.<br/><br/><b>Why Smartphone?</b><br/>&emsp;&emsp;The scavenger hunt clues are given on a Mobile App - Sparrowz(<a href='http://onelink.to/sparrowz' target='_blank'>http://onelink.to/sparrowz</a>),Game password will be mailed to everyone who registers for the event. Registrations are possible on Eventshigh.<br/><br/><b>Oh, How much of my data plan will be consumed while playing the game?</b><br/>&emsp;&emsp;You only need data to download the app and the game (well before you come to Cubbon Park Metro). Then the app consumes no data during game play. You however will only know your leaderboard position when you have internet.<br/><br/><b>Is the registration fee a fee of INR 200 per person?</b><br/>&emsp;&emsp;No you only pay INR 200 PER TEAM. One Team can have upto 4 people playing. We recommend ideal team sizes of 2 or 3 people.<br/><br/><b>Can we play Alone?</b><br/>&emsp;&emsp;Of course Yes, but registration fee is still INR 200. A team always makes it great fun to solve the challenges.<br/><br/><b>What is the start point of this Quest?</b><br/>&emsp;&emsp;It starts outside the Cubbon Park Metro Station.<br/><br/><b>Where do I park my vehicle?</b><br/>&emsp;&emsp;There is ample amount of parking around Cubbon Park. There are five places earmarked by the Department of Horticulture for parking both 2 wheelers and 4 wheelers. They include the stretch between the statues of Queen Victoria and King Edward, Ringwood Circle, the road behind the KSLTA, Central Library Road and Bal Bhavan Road.<br/><br/><b>What do we need to collect before the start of the game?</b><br/>&emsp;&emsp;In person nothing! Your game passwords - we will email to you.<br/><br/><b>Why should I do this on a weekend?</b><br/>&emsp;&emsp;Great way to spend time with Family & Friends...<br/>&emsp;&emsp;Explore your city like never before.<br/><br/><b>I still have some clarifications - Who will help me?</b><br/>&emsp;&emsp;Shruti Pillai<br/>&emsp;&emsp;shruti@indisparrow.com<br/>&emsp;&emsp;+91-8277211477",
+        "galleryImages":null,
+        "treasureHuntIcons":[{"iconName":"art"},{"iconName":"entertainment"}],
+        "eventTimings":null,
+        "eventDate":"All weekends",
+        "rate":"top_rated",
+        "treasureHuntPrice":300,
+        "eventId":"3079bd1b94911b24de574c5b7abf0dba",
+        "aggregateRatings":{
+            "reviewCount":"25",
+            "ratingValue":"4.2"
+        }
+    },
+    {
+        "treasureHuntId": 75,
+        "thRank":-1,
+        "treasureHuntDetails": null,
+        "treasureHuntHistory": null,
+        "treasureHuntFAQ":null,
+        "galleryImages":null,
+        "treasureHuntIcons":[{"iconName":"selfie"},{"iconName":"walk"},{"iconName":"shopping"}],
+        "eventTimings":null,
+        "eventDate":"11th & 12th February 2017",
+        "rate":"new",
+        "treasureHuntPrice":null,
+        "eventId":null,
+        "aggregateRatings":{
+            "reviewCount":"17",
+            "ratingValue":"4.8"
+        }
+      },
+      {
+        "treasureHuntId": 68,
+        "thRank":-1,
+        "treasureHuntDetails": null,
+        "treasureHuntHistory": null,
+        "treasureHuntFAQ":null,
+        "galleryImages":null,
+        "treasureHuntIcons":[{"iconName":"selfie"},{"iconName":"walk"},{"iconName":"shopping"}],
+        "eventTimings":"Start anytime between 4 PM - 7 PM",
+        "eventDate":"11 & 12th February 2017",
+        "rate":"new",
+        "treasureHuntPrice":null,
+        "eventId":null,
+        "aggregateRatings":{
+            "reviewCount":"55",
+            "ratingValue":"4.9"
+        }
+      },
+      {
+        "treasureHuntId": 76,
+        "thRank":-1,
+        "treasureHuntDetails": null,
+        "treasureHuntHistory": null,
+        "howtoPlayInstructions":"The game requires a smart phone with sufficient (40-50%) charge to complete the game.<br/><b>Before you head to Cubbon Park:-</b><br/>&emsp;1)&nbsp;Download the Sparrowz App from app store or play store.<br/>&emsp;2)&nbsp;Select Neralu Cubbon Tree Hunt from game list.<br/>&emsp;3)&nbsp;Register yourselves.<br/>&emsp;4)&nbsp;App asks permission for location, storage and camera access. Enable all these permissions to play the game.<br/><br/><b>General Instructions</b><br/>&emsp;1)&nbsp;No of people in a team- Upto 4 members (only 1 device required to play)<br/>&emsp;2)&nbsp;Start points :-<br/>&emsp;&emsp;&emsp;&bull;&nbsp;Government Aquarium Entrance, MG Road<br/>&emsp;&emsp;&emsp;&bull;&nbsp;Band Stand, inside Cubbon Park <br/>You can select one from the above two start points.",
+        "treasureHuntFAQ":"<b>What is the event?</b><br/>&emsp;&emsp;A treasure hunt in Cubbon Park, Solve the clues, find the trees, perform action, get next clue.. Repeat<br/><br/><b>What do i need to play the game?</b><br/>&emsp;&emsp;Smartphone with 3 hours battery life, LOADS of enthusiasm to search and Find. <br/><br/><b>Why Smartphone?</b><br/>The treasure hunt clues are given on a Mobile App - Sparrowz (<a href='http://onelink.to/sparrowz/' target='_blank'>http://onelink.to/sparrowz/</a>). This one is a free game! <br/><br/><b>Oh, How much of my data plan will be consumed while playing the game?</b><br/>&emsp;&emsp;You only need data to download the app and the game (on Wi-Fi, well before you come to Cubbon). Then the app consumes almost no data during game play. You however will only know your leaderboard position when you have internet.<br/><br/><b>How many people in a team?</b><br/>&emsp;&emsp;One Team can have upto 4 people playing. We recommend ideal team sizes of 2 or 3 people.<br/><br/><b>Can we play Alone?</b><br/>Of course Yes. A team always makes it great fun to solve the challenges.<br/><br/><b>Where will the game start? Reporting When?</b><br/>&emsp;&emsp;There are 2 start locations. One at Government Aquarium Entrance, Near M.G Road (<a href='https://goo.gl/maps/A1VEfJTfm8y' target='_blank'>https://goo.gl/maps/A1VEfJTfm8y</a>) and the other from Band Stand, inside Cubbon Park (<a href='https://goo.gl/maps/23q9FyKtUC42' target='_blank'>https://goo.gl/maps/23q9FyKtUC42</a>).<br/><br/><b>What do we need to collect before the start of the game?</b><br/>&emsp;&emsp;In person nothing! You can start playing the game as soon as you reach the start location on 18th Feb at 2.30pm.<br/><br/><b>Why should i do this on a Saturday Afternoon?</b><br/>&emsp;&emsp;Great way to spend time with Family & Friends.<br/><br/><b>I still have some clarifications - Who will help me?</b><br/>Shruti Pillai<br/>shruti@indisparrow.com<br/>+91-8277211477<br/>",
+        "galleryImages":null,
+        "treasureHuntIcons":[{"iconName":"selfie"},{"iconName":"walk"},{"iconName":"nature"}],
+        "eventTimings":"Starts at 2:30PM",
+        "eventDate":"18th February 2017",
+        "rate":"new",
+        "treasureHuntPrice":"Free",
+        "eventId":null,
+        "aggregateRatings":{
+            "reviewCount":"10",
+            "ratingValue":"4.0"
+        }
+      },
+      {
+        "treasureHuntId": 69,
+        "thRank":-1,
+        "treasureHuntDetails": null,
+        "treasureHuntHistory": null,
+        "treasureHuntFAQ":null,
+        "galleryImages":null,
+        "treasureHuntIcons":[{"iconName":"selfie"},{"iconName":"walk"},{"iconName":"nature"}],
+        "eventTimings":"Start anytime between 9 AM- 4 PM",
+        "eventDate":"18 & 19th February 2017",
+        "rate":"new",
+        "treasureHuntPrice":null,
+        "eventId":null,
+        "aggregateRatings":{
+            "reviewCount":"10",
+            "ratingValue":"4.0"
+        }
+      },
+      {
+        "treasureHuntId": 67,
+        "thRank":-1,
+        "treasureHuntDetails": null,
+        "treasureHuntHistory": null,
+        "treasureHuntFAQ":null,
+        "galleryImages":null,
+        "treasureHuntIcons":[{"iconName":"nature"},{"iconName":"walk"}],
+        "eventTimings":"Start at 9 AM",
+        "eventDate":"January 26 2017, Thursday",
+        "rate":"new",
+        "treasureHuntPrice":null,
+        "eventId":null,
+        "aggregateRatings":{
+            "reviewCount":"15",
+            "ratingValue":"4.3"
+        }
+      },
+       {
+        "treasureHuntId": 65,
+        "thRank":10,
+        "treasureHuntDetails": null,
+        "treasureHuntHistory": null,
+        "treasureHuntFAQ":null,
+        "galleryImages":null,
+        "treasureHuntIcons":[{"iconName":"ride"},{"iconName":"shopping"},{"iconName":"restaurant"}],
+        "eventTimings":"Start anytime between 9 AM- 4 PM",
+        "eventDate":"All Days",
+        "rate":"new",
+        "treasureHuntPrice":null,
+        "eventId":null,
+        "aggregateRatings":{
+            "reviewCount":"20",
+            "ratingValue":"4.9"
+        }
+      },
+      {
+        "treasureHuntId": 63,
+        "thRank":8,
+        "treasureHuntDetails": null,
+        "treasureHuntHistory": null,
+        "treasureHuntFAQ":null,
+        "galleryImages":null,
+        "treasureHuntIcons":[{"iconName":"selfie"},{"iconName":"findway"},{"iconName":"lake"}],
+        "eventTimings":"Start anytime between 9 AM- 4 PM",
+        "eventDate":"All Days",
+        "rate":"new",
+        "treasureHuntPrice":null,
+        "eventId":null,
+        "aggregateRatings":{
+            "reviewCount":"23",
+            "ratingValue":"4.2"
+        }
+      },
+      {
+        "treasureHuntId": 61,
+        "thRank":-1,
+        "treasureHuntDetails": "Sparrowz have spotted some battle tanks exhibited in the Silicon Valley of India and created a scavenger hunt for you to discover these armoured vehicles on 26th January as India celebrates it's 68th Republic Day.<br/><br/><b>Starting Point:</b>&nbsp;Chai Point, Trinity Metro Station, Near Trinity Circle <br/><br/><b>Distance Covered:</b>&nbsp;Approximately 8kms<br/><br/><b>How to play the game ?</b><br/>1) Buy Tickets from our ticketing partner. Find the link above.<br/>2) Come along with your smartphone, cycle and meet us at the Start Point on 26th Jan anytime between 7AM to 9AM.<br/>3) Clues will be served to you on the Sparrowz app that will help you discover the locations where battles tanks are stationed (Like a treasure hunt). Find them and know about them.<br/>4) By finishing the game you will cover between 8-10 Kms of cycling.<br/><br/>Please check our FB events page for more details. <br/> <a href='https://www.facebook.com/events/1218982554844274/' target='_blank'>Event link</a>",
+        "treasureHuntWeather":"For the date the quest has been designed for; temperature will fluctuate between a Maximum 27 and Minimum of 19. However upto 9.30 the max time anyone should take to get through the quest the temperature might not have crossed 24 and should be pleasant. However that doesn’t correct for the notorious traffic of Bangalore.  ",
+        "treasureHuntHistory": null,
+        "treasureHuntFAQ":null,
+        "galleryImages":null,
+        "treasureHuntIcons":[{"iconName":"cycletrail"},{"iconName":"findway"},{"iconName":"challenge"}],
+        "eventTimings":"Start at 7:00AM",
+        "eventDate":"January 26 2017, Thursday",
+        "rate":"new",
+        "treasureHuntPrice":350,
+        "eventId":"293a6423f8408689b876d75590ee5049",
+        "aggregateRatings":{
+            "reviewCount":"36",
+            "ratingValue":"3.9"
+        }
+      },
+      {
+        "treasureHuntId": 60,
+        "thRank":15,
+        "treasureHuntDetails": "After Cubbon Park another 'green lung' of  Bengaluru awaits all nature lovers and explorers. Discover two hundred year old trees, rocks that are million years and much more that Lalbagh treasures. Every botany enthusiast's paradise!<br/>Lalbagh is a must visit for every Bengalurian and people visiting Bangalore. It is the Park City after all. A paradise for morning walkers & yoga practitioners, a delight to couples, great place for photography, a nice & beautiful place for nature lovers.<br/><br/><b>Things to See/Do/Buy inside Lalbagh</b><br/>1. Other than century old trees such as Silk cotton & Mango tree from Tipu’s era, there are many artistic structures in Lalbagh. The Glass House being the most famous, Tree Fossil, the Bandstand, Pigeon House, Statue of Sri Chamaraja Wodeyar, the Directorate Building, Lalbagh West Gate Guard Room and Kempegowda Tower are other artistic structures that can be seen in Lalbagh. Lalbagh Lake is another attraction here.<br/>Lalbagh hosts weeklong biannual flower shows on 26th January & 15th August and the glass house is where these are held.<br/>2. You can run, walk & practice yoga in the Garden. It is a paradise for morning walkers.<br/>3. Every Sunday morning enjoy the soulful music/dance near bandstand.<br/>4. Visit library.<br/>5. Birds to watch out- Lalbagh is home to dozens of varieties of birds. If you are attentive you may spot Pelicans, Dancing Duck, Purple Moor Hen, Owl & many more.<br/>6. You can buy variety of plants, gardening equipments, compost from the Lalbagh nursery managed by department of horticulture.<br/> 7. During the annual Mango & Jackfruit festival you get to buy varieties of mango & jackfruit. The mela starts in the last week of May.<br/><br/><b>Things to eat/drink in Lalbagh</b><br/>After a long walk you can recharge yourself as there are HOPCOMS stores inside Lalbagh where the mango juice is a must try. Biscuits, water, fruits & juices are available here. You may find some vendors selling fruits at certain spots inside the garden.<br/><br/><b>Internet/Data/Mobile Connectivity in the Garden</b><br/>At most of the places Mobile/data connectivity is good but there is not a single designated place to recharge batteries, so better carry your power bank. ",
+        "treasureHuntHistory": "Hyder Ali commissioned the building of this garden in 1760 but his son, Tipu Sultan, completed it. The Lalbagh gardens were commissioned by the 18th century and over the years it acquired India's first lawn-clock and the subcontinent's largest collection of rare plants.<br/>In 1874, Lalbagh had an area of 45 acres (180,000 m). In 1889, 30 acres were added to the eastern side, followed by 13 acres in 1891 that included the rock with Kempegowda tower. 94 acres more were added in 1894 on the eastern side just below the rock bringing it to a total of 188 acres (760,000 m).",
+        "treasureHuntWeather":"In Lalbagh, even in Summer a stroll in Garden is often pleasant. Temperature ranges 32-35 in summer, but feels like 28-30.",
+        "treasureHuntTravel":"<b>How to reach Lalbagh ?</b><br/><b>Metro</b><br/>Green line is yet not operational, as of now the nearest metro station is Majestic & MG road.<br/><b>Bus</b><br/>There are various buses from important places like Majestic, Shivajinagar, Madiwala, Vijaya Nagara TTMC, KR Market, Yeshwantpura, Silk Board, Electronic City, Hebbal, KR Puram, ITPL, Marathahalli, Shanthi Nagar, Mysore Road Satellite bus stand etc. in Bangalore to reach the garden.<br/>Many buses ply from majestic towards Lalbagh Garden. Here is the list of buses.<br/>BMTC Bus Numbers: 12, 12D, 25, 12D, 12E, 15C, 18, 210I, 359, 365P, 402M, 19E, 343B, 340G, 348B, 354B<br/><b>Uber/Ola/ Auto</b><br/>You can take Uber, Ola or auto from any corner of the city to reach Lalbagh.<br/><b>Car Parking & 2 wheeler Parking</b><br/>Vehicles are allowed only through the East gate towards Double road. Ample space for parking is available near the nursery entrance inside the Garden for 4 wheelers & 2 wheelers.<br/><br/><b>How to travel inside Lalbagh?</b><br/>Walk<br/>Battery operated 'Harini green vehicle' are available at INR 100 per passenger ",
+        "treasureHuntFAQ":"<b>What is the event?</b><br/>&emsp;&emsp;A treasure hunt in Lalbagh. Solve the clues, find the location, perform action, get next clue.. Repeat<br/><br/><b>What do i need to play the game?</b><br/>&emsp;&emsp;Smartphone with 3 hours battery life, LOADS of enthusiasm to search and find or ask and find.<br/><br/><b>Why Smartphone?</b><br/>&emsp;&emsp;The treasure hunt clues are given on a Mobile App - Sparrowz(<a href='http://onelink.to/sparrowz' target='_blank'>http://onelink.to/sparrowz</a>),Game password will be mailed to everyone who registers for the event. Registrations are possible on Eventshigh.<br/><br/><b>Oh, How much of my data plan will be consumed while playing the game?</b><br/>&emsp;&emsp;You only need data to download the app and the game (on Wi-Fi, well before you come to Lalbagh). Then the app consumes no data during game play. You however will only know your leaderboard position when you have internet.<br/><br/><b>Is the registration fee a fee of INR 300 per person?</b><br/>&emsp;&emsp;No you only pay INR 300 PER TEAM. One Team can have upto 4 people playing. We recommend ideal team sizes of 2 or 3 people.<br/><br/><b>Can we play Alone?</b><br/>&emsp;&emsp;Of course Yes, but registration fee is still INR 300. A team always makes it great fun to solve the challenges.<br/><br/><b>Spot Registrations?</b><br/>&emsp;&emsp;Yes, But only subject to availability of slots.<br/><br/><b>Where will the game start? Reporting When?</b><br/>&emsp;&emsp;There are 3 entrances from which you can choose one:<br/>&emsp;&emsp;&emsp;&bull;&nbsp;MTR <a href='https://goo.gl/maps/2z7B2rQuKjM2' target='_blank'>https://goo.gl/maps/2z7B2rQuKjM2</a><br/>&emsp;&emsp;&emsp;&bull;&nbsp;Basavanagudi West Gate <a href='https://goo.gl/maps/YwyNLriYTPq' target='_blank'>https://goo.gl/maps/YwyNLriYTPq</a><br/>&emsp;&emsp;&emsp;&bull;&nbsp;Double Road <a href='https://goo.gl/maps/phLXngKZmm12' target='_blank'>https://goo.gl/maps/phLXngKZmm12</a><br/><br/><b>What do we need to collect before the start of the game?</b><br/>In person nothing! Your game passwords - we will email to you.<br/><br/><b>I still have some clarifications - Who will help me?</b><br/>&emsp;&emsp;Shruti Pillai<br/>&emsp;&emsp;shruti@indisparrow.com<br/>&emsp;&emsp;+91-8277211477",
+        "galleryImages":[
+            {
+                "url":"http://static.sparrowzapp.com/static/img/Photo5.jpg"
+            },
+            {
+                "url":"http://static.sparrowzapp.com/static/img/Photo6.jpg"
+            },
+            {
+                "url":"http://static.sparrowzapp.com/static/img/Photo7.jpg"
+            },
+            {
+                "url":"http://static.sparrowzapp.com/static/img/Photo8.jpg"
+            }
+        ],
+        "treasureHuntIcons":[{"iconName":"historical"},{"iconName":"walk"},{"iconName":"garden"}],
+        "eventTimings":"Start anytime between 8 AM- 4 PM",
+        "eventDate":"All Saturdays & Sundays",
+        "rate":"top_rated",
+        "treasureHuntPrice":300,
+        "eventId":"f75497fb8bcb9207d54befab5b634369",
+        "aggregateRatings":{
+            "reviewCount":"63",
+            "ratingValue":"4.7"
+        }
+      },
+      {
+        "treasureHuntId": 59,
+        "thRank":9,
+        "treasureHuntDetails": null,
+        "treasureHuntHistory": null,
+        "treasureHuntFAQ":null,
+        "galleryImages":null,
+        "treasureHuntIcons":[{"iconName":"selfie"},{"iconName":"monuments"},{"iconName":"ride"}],
+        "eventTimings":"Start anytime between 9 AM- 4 PM",
+        "eventDate":"All Days",
+        "rate":"popular",
+        "treasureHuntPrice":null,
+        "eventId":null,
+        "aggregateRatings":{
+            "reviewCount":"24",
+            "ratingValue":"3.8"
+        }
+      },
+      {
+        "treasureHuntId": 58,
+        "thRank":12,
+        "treasureHuntDetails": "Basavanagudi, one of the oldest areas of this city dating back to 1800s is home to many old temples and beautiful spiritual places. Once populated by Kannada Brahmin families and retaining that old world charm this trail takes you through the living heritage.",
+        "treasureHuntHistory": "The major commercial hub during the 70s and 80s, Basavanagudi is amongst the oldest localities in Bangalore. Located close to Jayanagar, this suburb got its name from the sacred ‘Bull Temple’ that has a monolith structure of ‘Nandi’, the bull. In local language, ‘Basava’ means ‘bull’ and ‘Gudi’ means ‘temple’ and thus the name ‘Basavanagudi’.<br/>",
+        "treasureHuntFAQ":null,
+        "treasureHuntThings":"<h4><b>Things to do in Basavanagudi</b></h4><h5><b>Temples in Basavanagudi</b></h5>(1).<b>Bull Temple</b> - The temple was built in 1786 by Kempegowda, is a classic example of Dravidian architecture. Dedicated to Nandi, the sacred bull, a huge monolithic bull inside the temple is 4.5 meters high and 6 meters long. The origin of the river Vishva Bharti is believed to be at the foot of the statue.<br/><br/>(2).&nbsp;<b>Sri Mallikarjuna Temple</b> - This temple is more than 300 years old. It was built in the year 1689  when Sri Chikadeveraya ruled.<br/><br/>(3).&nbsp;<b>Dodda Ganesha</b> -  Built by Magadi Sri Kempegowda around 1536, this temple is also known as 'Dodda Ganapathi'. The idol is carved on a single piece of rock ranging 15 feet height which is unique. People inagurate their new vehicles often at this temple.<br/><br/>(4).&nbsp;<b>Gavi Gangadhareshwara</b> - An ancient cave temple located at Gavipuram, also goes by the name Gavipuram cave temple. The main deity worshipped here is Lord Shiva. There are two mysterious stone discs present inside the temple which allows the sun to shine on the shrine only during the month of January on Makara Sankranthi. The sun rays pass through nandi’s horn and light up the idol. The architecture consists of huge magnificent granite pillars. The temple was built during the 16th century by Kempegowda. There are two tunnels present inside the temple-one leading to the city of Varanasi and the other leading to Shivagange. But the tunnels have been closed.<br/><br/>(5).&nbsp;The Ramakrishna Math is one of the foundations laid during 19th century which aims at the harmony of religions, spiritual fulfillment, all-round development of human faculties, social equality and peace for all humanity. This Math in Bangalore was founded in 1908. It is located on Bull temple road. Everyone is welcome here to attain knowledge, peace of mind and freedom from bondage.<br/><br/><h5><b>Things To See</b></h5>(1).&nbsp;<b>Bugle Rock Garden</b> - Bugle rock garden is situated adjacent to the Bull Temple. The rocks in this garden are supposed to be one of the oldest natural rock formation in the world that is more than 10 million years old (some say 3000 million years old). The rocks in this garden are internally connected with the rocks in Lalbagh. This bugle rock garden is spread over 16 acres of land with many beautiful trees and plants.<br/><br/>(2).&nbsp;<b>MN Krishna Rao Park</b> -  A stone’s throw from Lalbagh, is one of the old parks in the city, housing some of the most beautiful trees with large canopies. It is named after late MN Krishna Rao, Dewan of Mysore who had donated Rs 20,000 to setup the park.<br/><br/><h5><b>Eat outs at Basavanagudi</b></h5>(1).&nbsp;<b>Brahmin’s Coffee Bar</b> - The best in class darshini food can be found in Brahmin’s Coffee Bar at Basavanagudi. Ranges from hot rice idlies to crispy vadas to kesari bath and by-2 coffee.<br/><br/>(2).&nbsp;<b>Karnataka Bhel House</b> – Hop in to this vegetarian and outdoor seating famous chat/fast food stall located at Uma Theatre Road. Some of the best dishes served here are the aloo dahi puri, sev puri and masala puri.<br/><br/>(3).&nbsp;<b>VB Bakery</b> - Located in the ever bustling Eat Street {also known as Thindi Beedi}, VB Bakery’s rusk, butter biscuits and Congress buns are all-time favourites of regulars who frequent the shop. Those with a sweet tooth can pick their signature Honey Cake or the Apple Cake.<br/><br/>(4).&nbsp;<b>Cafe Mondo</b> - Strictly vegetarian, their menu lists out Italian dishes like pastas and pizzas {more than 15 variants to choose from, in fact}, apart from burgers and filling combos. Top it off with one of their smoothies {try Mixed Bag of Berries} or a cup of coffee.<br/><br/>(5).&nbsp;<b>Leanin’ Tree Art Cafe</b> - Leanin’ Tree Art Cafe offers a little of everything – laidback ambience, good food, art and nature. Their pastas or sizzlers like Chicken Thermidor are worth a try.<br/><br/>(6).&nbsp;<b>Kamat Bugle Rock</b> – Try out their North Karnataka-style meals. Expect regional staples like Kosambari, Jowar Roti and Yennegai, and the best part? It’s unlimited.<br/><br/>(7).&nbsp;<b>Roti Ghar</b> - North Indian food at reasonable prices are the highlight here. Kaju Kolapuri to spicy Paneer Peshawari, you have a huge array of options.<br/><br/>(8).&nbsp;<b>Vidyarthi Bhavan</b> - Vidyarthi Bhavan is one of the legendary restaurants in South Bangalore and well known for their own style of Masala Dosa. The Masala dosa which we get here is unique and we are sure, you don’t find it anywhere in the town. Everyone has their own mixed feelings about the taste of Dosa in Vidyarthi Bhavan. As per our prospective they are still best.<br/><br/>(9).&nbsp;<b>Averekalu Mela / Food Street</b> - Avarekai – Kannada for the Lablab bean (or the Indian bean, Egyptian bean, Hyacinth bean, Australian pea) It is popular with locals when in season: you’ll see its skin strewn in front of homes across Bangalore. Legend goes that if the skins are stepped on or trampled over on the roads, the food cooked using the bean gets more flavourful. Avarekai Mela showcases the many ways in which the little green bean can be used – from Ragi Dosa to Kod Vadai to Sambar to Holige.<br/><br/>(10).&nbsp;<b>Puliyogare Point</b> - Known for the sour and spicy Puliyogare {tamarind rice}  and Sakkar Pongal {a traditional rice pudding dish which is mostly prepared during festive occasions} it serves.<br/><br/><h5><b>Shopping at Basavanagudi</b></h5>(1).&nbsp;<b>Gandhi Bazaar</b> :- Gandhi Bazaar is a popular landmark here. Known for its road side markets selling flowers, vegetables and other things. Some shops have been operational since over 40 years",
+        "treasureHuntTravel":"<h4><b>How to reach Basavanagudi?</b></h4><b>Bus:</b>There are direct buses from important places like Majestic, Shivajinagar, Madiwala , KR Market, Yeshwantpura, Silk Board, Electronic City, Hebbal, KR Puram, Shanthi Nagar, Mysore Road Satellite bus stand.<br/><br/><b>Uber/Ola/ Auto :</b>You can take Uber, Ola or auto from any corner of the city Basavanagudi.<br/>",
+        "galleryImages":null,
+        "treasureHuntIcons":[{"iconName":"historical"},{"iconName":"walk"}],
+        "eventTimings":"Start anytime between 9 AM- 4 PM",
+        "eventDate":"All Days",
+        "rate":"new",
+        "treasureHuntPrice":null,
+        "eventId":null,
+        "aggregateRatings":{
+            "reviewCount":"12",
+            "ratingValue":"3.4"
+        }
+      },
+      {
+        "treasureHuntId": 41,
+        "thRank":-1,
+        "treasureHuntDetails": "Play this hunt while exploring the apartment complex and challenge yourself.",
+        "treasureHuntHistory": null,
+        "treasureHuntFAQ":null,
+        "galleryImages":null,
+        "treasureHuntIcons":[{"iconName":"game"}],
+        "eventTimings":"Start anytime between 9 AM- 4 PM",
+        "eventDate":"All Days",
+        "rate":"new",
+        "treasureHuntPrice":null,
+        "eventId":null,
+        "aggregateRatings":{
+            "reviewCount":"16",
+            "ratingValue":"3.4"
+        }
+      },
+      {
+        "treasureHuntId": 57,
+        "thRank":11,
+        "treasureHuntDetails": "Basavanagudi houses the most revered of restaurants that have stood their own. A mere few minutes here will make you forget the label of “Pub and Bar Capital” as you will be fully immersed in the archaic culture as well as the chutney and sambar that this place churns out in amplitude. So ready an empty stomach and an eagerness for sweet and spicy South Indian delicacies with a modern transfusion, as you embark on a gastronomical journey through Basavanagudi’s finest.  ",
+        "treasureHuntHistory": "The major commercial hub during the 70s and 80s, Basavanagudi is amongst the oldest localities in Bangalore. Located close to Jayanagar, this suburb got its name from the sacred ‘Bull Temple’ that has a monolith structure of ‘Nandi’, the bull. In local language, ‘Basava’ means ‘bull’ and ‘Gudi’ means ‘temple’ and thus the name ‘Basavanagudi’.<br/>",
+        "treasureHuntFAQ":null,
+        "treasureHuntThings":"<h4><b>Things to do in Basavanagudi</b></h4><h5><b>Temples in Basavanagudi</b></h5>(1).<b>Bull Temple</b> - The temple was built in 1786 by Kempegowda, is a classic example of Dravidian architecture. Dedicated to Nandi, the sacred bull, a huge monolithic bull inside the temple is 4.5 meters high and 6 meters long. The origin of the river Vishva Bharti is believed to be at the foot of the statue.<br/><br/>(2).&nbsp;<b>Sri Mallikarjuna Temple</b> - This temple is more than 300 years old. It was built in the year 1689  when Sri Chikadeveraya ruled.<br/><br/>(3).&nbsp;<b>Dodda Ganesha</b> -  Built by Magadi Sri Kempegowda around 1536, this temple is also known as 'Dodda Ganapathi'. The idol is carved on a single piece of rock ranging 15 feet height which is unique. People inagurate their new vehicles often at this temple.<br/><br/>(4).&nbsp;<b>Gavi Gangadhareshwara</b> - An ancient cave temple located at Gavipuram, also goes by the name Gavipuram cave temple. The main deity worshipped here is Lord Shiva. There are two mysterious stone discs present inside the temple which allows the sun to shine on the shrine only during the month of January on Makara Sankranthi. The sun rays pass through nandi’s horn and light up the idol. The architecture consists of huge magnificent granite pillars. The temple was built during the 16th century by Kempegowda. There are two tunnels present inside the temple-one leading to the city of Varanasi and the other leading to Shivagange. But the tunnels have been closed.<br/><br/>(5).&nbsp;The Ramakrishna Math is one of the foundations laid during 19th century which aims at the harmony of religions, spiritual fulfillment, all-round development of human faculties, social equality and peace for all humanity. This Math in Bangalore was founded in 1908. It is located on Bull temple road. Everyone is welcome here to attain knowledge, peace of mind and freedom from bondage.<br/><br/><h5><b>Things To See</b></h5>(1).&nbsp;<b>Bugle Rock Garden</b> - Bugle rock garden is situated adjacent to the Bull Temple. The rocks in this garden are supposed to be one of the oldest natural rock formation in the world that is more than 10 million years old (some say 3000 million years old). The rocks in this garden are internally connected with the rocks in Lalbagh. This bugle rock garden is spread over 16 acres of land with many beautiful trees and plants.<br/><br/>(2).&nbsp;<b>MN Krishna Rao Park</b> -  A stone’s throw from Lalbagh, is one of the old parks in the city, housing some of the most beautiful trees with large canopies. It is named after late MN Krishna Rao, Dewan of Mysore who had donated Rs 20,000 to setup the park.<br/><br/><h5><b>Eat outs at Basavanagudi</b></h5>(1).&nbsp;<b>Brahmin’s Coffee Bar</b> - The best in class darshini food can be found in Brahmin’s Coffee Bar at Basavanagudi. Ranges from hot rice idlies to crispy vadas to kesari bath and by-2 coffee.<br/><br/>(2).&nbsp;<b>Karnataka Bhel House</b> – Hop in to this vegetarian and outdoor seating famous chat/fast food stall located at Uma Theatre Road. Some of the best dishes served here are the aloo dahi puri, sev puri and masala puri.<br/><br/>(3).&nbsp;<b>VB Bakery</b> - Located in the ever bustling Eat Street {also known as Thindi Beedi}, VB Bakery’s rusk, butter biscuits and Congress buns are all-time favourites of regulars who frequent the shop. Those with a sweet tooth can pick their signature Honey Cake or the Apple Cake.<br/><br/>(4).&nbsp;<b>Cafe Mondo</b> - Strictly vegetarian, their menu lists out Italian dishes like pastas and pizzas {more than 15 variants to choose from, in fact}, apart from burgers and filling combos. Top it off with one of their smoothies {try Mixed Bag of Berries} or a cup of coffee.<br/><br/>(5).&nbsp;<b>Leanin’ Tree Art Cafe</b> - Leanin’ Tree Art Cafe offers a little of everything – laidback ambience, good food, art and nature. Their pastas or sizzlers like Chicken Thermidor are worth a try.<br/><br/>(6).&nbsp;<b>Kamat Bugle Rock</b> – Try out their North Karnataka-style meals. Expect regional staples like Kosambari, Jowar Roti and Yennegai, and the best part? It’s unlimited.<br/><br/>(7).&nbsp;<b>Roti Ghar</b> - North Indian food at reasonable prices are the highlight here. Kaju Kolapuri to spicy Paneer Peshawari, you have a huge array of options.<br/><br/>(8).&nbsp;<b>Vidyarthi Bhavan</b> - Vidyarthi Bhavan is one of the legendary restaurants in South Bangalore and well known for their own style of Masala Dosa. The Masala dosa which we get here is unique and we are sure, you don’t find it anywhere in the town. Everyone has their own mixed feelings about the taste of Dosa in Vidyarthi Bhavan. As per our prospective they are still best.<br/><br/>(9).&nbsp;<b>Averekalu Mela / Food Street</b> - Avarekai – Kannada for the Lablab bean (or the Indian bean, Egyptian bean, Hyacinth bean, Australian pea) It is popular with locals when in season: you’ll see its skin strewn in front of homes across Bangalore. Legend goes that if the skins are stepped on or trampled over on the roads, the food cooked using the bean gets more flavourful. Avarekai Mela showcases the many ways in which the little green bean can be used – from Ragi Dosa to Kod Vadai to Sambar to Holige.<br/><br/>(10).&nbsp;<b>Puliyogare Point</b> - Known for the sour and spicy Puliyogare {tamarind rice}  and Sakkar Pongal {a traditional rice pudding dish which is mostly prepared during festive occasions} it serves.<br/><br/><h5><b>Shopping at Basavanagudi</b></h5>(1).&nbsp;<b>Gandhi Bazaar</b> :- Gandhi Bazaar is a popular landmark here. Known for its road side markets selling flowers, vegetables and other things. Some shops have been operational since over 40 years",
+        "treasureHuntTravel":"<h4><b>How to reach Basavanagudi?</b></h4><b>Bus:</b>There are direct buses from important places like Majestic, Shivajinagar, Madiwala , KR Market, Yeshwantpura, Silk Board, Electronic City, Hebbal, KR Puram, Shanthi Nagar, Mysore Road Satellite bus stand.<br/><br/><b>Uber/Ola/ Auto :</b>You can take Uber, Ola or auto from any corner of the city Basavanagudi.<br/>",
+        "galleryImages":null,
+        "treasureHuntIcons":[{"iconName":"restaurant"},{"iconName":"game"}],
+        "eventTimings":"Start anytime between 9 AM- 4 PM",
+        "eventDate":"All Days",
+        "rate":"new",
+        "treasureHuntPrice":null,
+        "eventId":null,
+        "aggregateRatings":{
+            "reviewCount":"16",
+            "ratingValue":"3.5"
+        }
+      },
+      {
+        "treasureHuntId": 53,
+        "thRank":16,
+        "treasureHuntDetails":"This treasure hunt takes you through all the corners of colloquially known ‘lung’ area of the city- Cubbon Park. You will discover diverse locations like the beautiful natural landscape, heritage buildings in the park’s precincts and a lot more.",
+        "treasureHuntThings": "<h4><b>Fun Things to do in Cubbon Park</b></h4>1.&nbsp;Statues at Cubbon Park are almost 100 years old.<br/>&emsp;a.&nbsp;Chamarajendra Wadiyar : Chamarajendra Wodeyar, the Maharaja of Mysore, was installed in 1927 near the tennis pavillion. He ruled Mysore between 1881 and 1894. A patron of arts and music, the Maharaja was a violin virtuoso himself and used to provide accompaniment.<br/>&emsp;b.&nbsp;Sheshadri Iyer : Sir K. Sheshadri Iyer statue installed in 1913 in front of the Central Library.The Dewan of Mysore for 18 consecutive years was an illustrious administrator. He is considered as the “maker of modern Bangalore” - established the Kolar gold fields and Victoria Hospital and commissioned the Sivanasamudra hydel-electric power project and Lal Bagh.<br/>&emsp;c.&nbsp;Lord Mark Cubbon : The statue was unveiled in front of the Karnataka High Court in March 1866. Lieutenant-General Sir Mark Cubbon (23 August 1775 – 23 April 1861) was a British army officer with the East India Company who became the British Commissioner of Mysore state in 1834. He retained this office until 1860. He moved the capital from Mysore to Bangalore,helped reform the finances of Mysore. Obvious Cubbon Park is named after him.<br/>&emsp;d.&nbsp;Queen Victoria : Installed in 1906, near Anil Kumble Circle. Queen Victoria (Alexandrina Victoria; 24 May 1819 – 22 January 1901) was the monarch of the United Kingdom (from 1837) and Empress of India (from 1876) from 20 June 1837 until her death.<br/>&emsp;e.&nbsp;Edward VII : Installed in 1919, near Cubbon Park Metro Station. Edward VII (Albert Edward; 9 November 1841 – 6 May 1910) was King of the United Kingdom and Emperor of India (from 22 January 1901) until 1910.<br/><br/>2.&nbsp;What to do in Cubbon Park on Sundays / Cubbon Park Activities: Cubbon Park is completely closed to traffic on all Sundays and second/fourth Saturdays, This creates a fantastic opportunity for all outdoor sports in the most green settings Bangalore can offer. Cubbon Park Timings on Sunday (Open 24 hours).<br/>&emsp;a.&nbsp;Run/Cycle/Yoga/Roller Skates in the park : Hundreds of runners, cyclists, skaters are often present in Cubbon every weekend.<br/>&emsp;b.&nbsp;Cubbon Park Cycle Rentals near Government Museum : This is a FREE facility and bicycles can be rented for 30 minutes.<br/>&emsp;c.&nbsp;Cultural event at Band Stand every Sunday morning.<br/>&emsp;d.&nbsp;Climb trees<br/>&emsp;e.&nbsp;Dog walking<br/>&emsp;f.&nbsp;Photography<br/>&emsp;g.&nbsp;Picnic<br/><br/>3.&nbsp;Visit State Central Library (Timings 8.30 AM – 7.30 PM, Holidays on every Monday and second Tuesdays of the month): Historic red building with a unique round room, near Kanteerva Stadium entrance of the park. A reader's paradise with a collection of 2,40,093 books and periodicals and is one of the landmarks of Bangalore.<br/><br/>4.&nbsp;Wooden Art Installations :  Cubbon Park has over 6000 trees  of 96 species. Every time it rains in Bangalore, several trees and branches break off. The Horticulture Department with Karnataka Shilpakala Academy conducted a 2 week workshop where there broken pieces of wood were converted into 19 pieces of carved wooden art. Silver oak, Raintree and Gulmohar wood were largely used for the sculptures. The estimated longevity of these sculptures is ~5 years.<br/><br/>5.&nbsp;Trees in Cubbon Park :<br/>&emsp;a.&nbsp;Araucarias along with Canna beds on either sides of the road from the Library to Hudson circle.<br/>&emsp;b.&nbsp;Swietenias in the Northern side of the park<br/>&emsp;c.&nbsp;Java fig avenue along the road to the Government Museum<br/>&emsp;d.&nbsp;Polyalthia along the road from Queen’s statue to King Edward statue<br/>&emsp;e.&nbsp;Chestnut trees along the road from Chamarajendra statue to Siddalingaiah circle<br/>&emsp;f.&nbsp;Silver oak adjacent to the tennis pavillion.<br/>&emsp;g.&nbsp;Bamboo Forest<br/><br/>6.&nbsp;Birds to Watch out :  Most species of birds of Bangalore find shelter in the green patches of Cubbon Park<br/>&emsp;a.&nbsp;Pond Heron (Grey Heron)<br/>&emsp;b.&nbsp;White-throated kingfisher<br/>&emsp;c.&nbsp;Egrets<br/>&emsp;d.&nbsp;Night heron<br/>&emsp;e.&nbsp;Cormorant<br/>&emsp;f.&nbsp;Tickell’s blue flycatcher<br/>&emsp;g.&nbsp;Purple-rumped sunbird<br/>&emsp;h.&nbsp;Kite<br/>&emsp;i.&nbsp;Eagle<br/>&emsp;Also, don’t forget to look out for bats at dusk!<br/><br/>7.&nbsp;Karnataka State Lawn Tennis Association : <a href='http://www.kslta.com/#' target='_blank'>http://www.kslta.com/</a><br/><br/>8.&nbsp;Kids Park- Bal Bhavan and the legendary toy train Puttani Express<br/><br/>9.&nbsp;Things to eat/drink in Cubbon Park: After a long walk you can recharge yourself as the juice stalls inside Cubbon Park where they sell mango pulp juice, grape pulp juice and other drinks. You may find some vendors selling fruits at certain spots inside the garden.<br/><br/>10.&nbsp;Internet/Data/Mobile Connectivity in Cubbon Park : At most of the places Mobile/data connectivity is good but there is no single place to recharge batteries, so carry your power bank if you plan to spend a couple of hours here.<br/>",
+        "treasureHuntHistory": "<h4><b>History of Cubbon Park</b></h4>Cubbon Park was the brainchild of Chief Engineer of the State, Major General Richard Sankey and created by the then acting Commissioner of Mysore, Sir John Meade in 1864. The park was initially named as Meade’s Park. However, later the park was renamed as Cubbon Park in the memory of Sir Mark Cubbon who was then the longest serving commissioner. Initially spread over an area of 100 acres, the park was later expanded to around 300 acres of land. ", 
+        "treasureHuntWeather": "In Cubbon Park, even during Summer a stroll in the park is often pleasant. Temperature ranges between 35-37 in summer, but feels like 30-32. During winter it ranges between 21-26 and feels like 17-19.",
+        "treasureHuntTravel": "<h4><b>How to reach Cubbon Park ?</b></h4><b>By Metro :</b> Purple line will get you here. The nearest are Cubbon Park metro stations and Vidhana Soudha metro stations.<br/><b>Bus:</b>There are various buses from important places like Majestic, Shivajinagar, Madiwala, Vijaya Nagara TTMC, KR Market, Yeshwantpura, Silk Board, Electronic City, Hebbal, KR Puram, ITPL, Marathahalli, Shanthi Nagar, Mysore Road Satellite bus stand etc. in Bangalore to reach the Park.<br/><b>Uber/Ola/ Auto : </b>You can take Uber, Ola or auto from any corner of the city to reach Cubbon.<br/><b>Car Parking & 2 wheeler Parking</b><br/>There are five places earmarked by the Department of Horticulture for parking both 2 wheelers and 4 wheelers. They include the stretch between the statues of Queen Victoria and King Edward, Ringwood Circle, the road behind the KSLTA, Central Library Road and Bal Bhavan Road.<br/>Parking at these places is allowed from 8 am to 7 pm.<br/><br/><h4><b>How to travel inside Cubbon Park?</b></h4>&emsp;&bull;&emsp;Walk/Run<br/>&emsp;&bull;&emsp;Battery operated 'Harini green vehicle'<br/>&emsp;&bull;&emsp;Rent/Bring your own cycle<br/>&emsp;&bull;&emsp;Skates/Skateboard<br/>&emsp;&bull;&emsp;Segway Hoverboard<br/>Movement of vehicles is banned within Cubbon Park on Sundays. So one can move about fearlessly on the above-mentioned ways to travel.",
+        "treasureHuntFAQ":"<b>What is the event?</b><br/>&emsp;&emsp;A treasure hunt in Cubbon Park, Solve the clues, find the location, perform action, get next clue.. Repeat<br/><br/><b>What do I need to play the game?</b><br/>&emsp;&emsp;Smartphone with 3 hours battery life, LOADS of enthusiasm to search and Find or ask and find.<br/<br/><b>Why Smartphone?</b><br/>&emsp;&emsp;The treasure hunt clues are given on a Mobile App - Sparrowz (<a href='http://onelink.to/sparrowz' target='_blank'>http://onelink.to/sparrowz </a>), Game password will be mailed to everyone who registers for the event.Registrations are possible on Eventshigh.<br/><br/><b>Oh, How much of my data plan will be consumed while playing the game?</b><br/>&emsp;&emsp;You only need data to download the app and the game (on Wi-Fi, well before you come to Cubbon). Then the app consumes no data during game play. You however will only know your leaderboard position when you have internet.<br/><br/><b>Is the registration fee a fee of INR 300 per person?</b><br/>&emsp;&emsp;No you only pay INR 300 PER TEAM. One Team can have upto 4 people playing. We recommend ideal team sizes of 2 or 3 people.<br/><br/><b>Can we play Alone?</b><br/>&emsp;&emsp;Of course Yes, but registration fee is still INR 300. A team always makes it great fun to solve the challenges.<br/><br/><b>Spot Registrations?</b><br/>&emsp;&emsp;Yes, But only subject to availability of slots.<br/><br/><b>What do we need to collect before the start of the game?</b><br/>&emsp;&emsp;In person nothing! Your game passwords - we will email to you.<br/><br/><b>Why should I do this on a Sunday Morning?</b><br/>&emsp;&emsp;Great way to spend time with Family & Friends...<br/>&emsp;&emsp;Cubbon has no traffic!<br/><br/><b>I still have some clarifications - Who will help me?</b><br/>&emsp;&emsp;Shruti Pillai<br/>&emsp;&emsp;shruti@indisparrow.com<br/>&emsp;&emsp;+91-8277211477",
+        "galleryImages":[
+            {
+                "url":"http://static.sparrowzapp.com/static/img/Photo1.jpg"
+            },
+            {
+                "url":"http://static.sparrowzapp.com/static/img/Photo2.jpg"
+            },
+            {
+                "url":"http://static.sparrowzapp.com/static/img/Photo3.jpg"
+            },
+            {
+                "url":"http://static.sparrowzapp.com/static/img/Photo4.jpg"
+            }
+        ],
+        "treasureHuntIcons":[{"iconName":"park"},{"iconName":"morning"},{"iconName":"walk"}],
+        "eventTimings":"Start anytime between 8 AM- 4 PM",
+        "eventDate":"All Saturdays & Sundays",
+        "rate":"top_rated",
+        "treasureHuntPrice":300,
+        "eventId":"6bbde917d7d9d02c277046c2e48e9abb",
+        "aggregateRatings":{
+            "reviewCount":"87",
+            "ratingValue":"4.9"
+        }
+      },
+      {
+        "treasureHuntId": 47,
+        "thRank":5,
+        "treasureHuntDetails":null,
+        "treasureHuntHistory": null,
+        "treasureHuntFAQ":null,
+        "galleryImages":null,
+        "treasureHuntIcons":[{"iconName":"game"},{"iconName":"walk"},{"iconName":"puzzle"}],
+        "eventTimings":"Start anytime between 9 AM- 4 PM",
+        "eventDate":"All Days",
+        "rate":"popular",
+        "treasureHuntPrice":null,
+        "eventId":null,
+        "aggregateRatings":{
+            "reviewCount":"49",
+            "ratingValue":"4.0"
+        }
+      },
+      {
+        "treasureHuntId": 45,
+        "thRank":6,
+        "treasureHuntDetails":null,
+        "treasureHuntHistory": null,
+        "treasureHuntFAQ":null,
+        "galleryImages":null,
+        "treasureHuntIcons":[{"iconName":"cafe"},{"iconName":"entertainment"},{"iconName":"restaurant"}],
+        "eventTimings":"Start anytime between 9 AM- 4 PM",
+        "eventDate":"All Days",
+        "rate":"new",
+        "treasureHuntPrice":null,
+        "eventId":null,
+        "aggregateRatings":{
+            "reviewCount":"21",
+            "ratingValue":"3.7"
+        }
+      },
+      {
+        "treasureHuntId": 34,
+        "thRank":7,
+        "treasureHuntDetails":"Ahoy me hearties!! Ye be invited to set sail on The Black Pearl with Captain Black Beard. He needs shipmates to hunt fer pirate treasure.We have some clues so come ready to hunt. Join us at India's largest pirate themed restaurant or ye be walking the plank. ",
+        "treasureHuntHistory": null,
+        "treasureHuntFAQ":null,
+        "galleryImages":null,
+        "treasureHuntIcons":[{"iconName":"food"},{"iconName":"pub"},{"iconName":"game"}],
+        "eventTimings":"Start anytime between 9 AM- 4 PM",
+        "eventDate":"All Days",
+        "rate":"popular",
+        "treasureHuntPrice":null,
+        "eventId":null,
+        "aggregateRatings":{
+            "reviewCount":"49",
+            "ratingValue":"4.6"
+        }
+      },
+      {
+        "treasureHuntId": 15,
+        "thRank":13,
+        "treasureHuntDetails":"Malleshwaram, one of the oldest layouts is a cultural and creative hub. The challenge is a melange of places that would give you a feel of this place. ",
+        "treasureHuntHistory": "Malleswaram is a prominent cultural hub in Bangalore as there are many renowned dancers, musicians and gurus here. Malleswaram located in the north-west of Bangalore, derives its name from the famous Kaadu Malleswara temple. Originally a village named Mallapura, Malleswaram was developed as a suburb during the great plague of 1898, which caused many people to move out from the city center. Malleswaram, together with Basavangudi, represents one of the oldest residential localities of Bangalore and was planned by the then Dewan of Mysore Kingdom, Sir Sheshadri Aiyar.<br/>",
+        "treasureHuntThings":"<h4><b>Things to do in Malleswaram</b></h4><h5><b>Temples of Malleswaram</b> (to make peace with yourself)</h5>(1).&nbsp;<b>Nandeeshwara Temple</b> - Bangalore boasts of many temples, but none is so shrouded in controversy and mystery as this one is. The ancient Nandeeshwara Temple at Malleswaram 17th cross was discovered in 1997, but it has stood for over 7,000 years on that spot. Being buried over the years hasn't diminished its aura. According to residents living nearby, the temple was completely buried and the land above it was a plain, open ground. This underground temple was enclosed within a stone cut courtyard supported by ancient stone pillars. At the far end of the courtyard, a Nandi is carved out of a black stone with eyes painted in gold. From its mouth a clear stream of water flowed directly on to a Shivalinga made out of the same black stone at a lower level. There were steps that led to a small pool in the centre of the courtyard where the water gets collected. The source of water, the sculptor, even the kingdom which built it remains a mystery.<br/><br/>(2).&nbsp;<b>ISKCON Temple</b> – This temple is very modern in its architecture. From the mouth watering Kichadi Prasadam, cleanliness of the temple, charity to social responsibilities it follows a modern approach to religion. The main hall has four large pictures of Lord Krishna's pastimes like his lifting of Govardhana hill, playing with his friends and so on. The temple also has a Dwaja Sthamba, the largest pillar in India.<br/><br/>(3).&nbsp;<b>Kadu Malleswara Temple</b> - Named after 'Kadu Malleswar' this Shiva temple with a holy and charismatic ambience is located at 15th cross Malleswaram. The street behind this is called Temple Street. As the name suggests there are many more temples here viz. Nandi Theertha, Narasimha temple and Gangamma Temple.<br/><br/>(4).&nbsp;<b>Daksina Mukha Nandi Teertha</b> - The main attraction of Dakshina Mukha Nandi Teertha Kalyani Kshetra temple is that the water falls on the Shiva Linga from the mouth of Nandi(Bull), the vehicle of Lord Shiva. The water then reaches the holy Kalyani (tank) in front of the Lord. Lord Shiva is called as Abhisheka Priya, one who always loves Abhisheka.<br/><br/><h5><b>Shopping at Malleswaram</b> (to hold onto your wallets for)</h5>(1).&nbsp;<b>Malleswaram 8th cross</b> - The busiest street in Malleswaram, the 8th cross market has number of shops and vendors selling vegetables, fruits, handicrafts, utensils and clothes. This is how shopping used to feel before the malls took over.<br/><br/>(2).&nbsp;<b>Mantri Square Mall, Malleswaram</b> - Mantri Square Mall features over 10,000 brands across apparel, footwear, accessories and other lifestyle products. It has 250 outlets selling a wide variety of merchandise and offering the best of national and international brands. The Malleshwaram Namma Metro station is an extension to the mall. The mall is designed by internationally renowned Bentel Associates of South Africa and if you want to do ice skating in Bangalore then this is the place for it.<br/><br/><h5><b>Eat outs at Malleswaram</b> (to die for)</h5>An entire day out could be spent in Malleshwaram’s darshinis and snack houses, so here’s our guide to the area’s best eats.<br/><br/>(1).&nbsp;<b>Hotel Janatha</b> – (also “Jantha Hotlu”) is home to one of the city’s crunchiest dosas. Also popular are fluffy idlis that go beautifully with the crispy vadas. For those of you with a sweet tooth, there’s the Kesari Bath. Obviously, to top it all a cup of filter kaapi.<br/><br/>(2).&nbsp;<b>Veena Stores</b> – This place features in legendary breakfast outlets and is stuffed in a 10x10 square feet room. Famous for its idly, vada, shavige bath, pulliyogare, avallakki bath and obviously by-2 kaapi.<br/><br/>(3).&nbsp;<b>Iyer Mess</b> - Hidden away in an alley off 8th cross, Iyer Mess offers hot, homely fare for the homesick. There’s just the one item on the menu: the “meals,” which consists of perfect, freshly-cooked rice, sambar, rasam, pickle, papad, curry, and yogurt. All of it is, of course, served on a banana leaf and steadily refilled.<br/><br/>(4).&nbsp;<b>Amrith Ice Cream Parlour</b> - Tucked into a quiet neighbourhood in Malleswaram, Amrith is a family-run parlour that’s been around since 1993. You’ll find a number of flavors here, however the Caribou Coffee with a subtle hint of bitterness is a must-try.<br/><br/>(5).&nbsp;<b>Halli Mane Hotel</b> - It’s a village home that has all tasty rural food. This place is built with red tiles which gives it a typical coastal Karnataka look. Halli Mane serves good rural food that is tasty and is also worth your money. The queue for akki and ragi rottis says it all. Don’t miss the Ugadi meals which any Kannadiga will vouch for.<br/><br/>(6).&nbsp;<b>New Krishna Bhavan (NKB)</b> - New Krishna Bhavan or NKB, as it is known, is tucked away in a quiet street opposite Mantri Mall. Here the startling green mini idlis, wafer thin neer dosa and ragi dosa are simply one of a kind.<br/><br/>(7).&nbsp;<b>Sree Sagar (CTR)</b> - Central Tiffin Room (C.T.R) or Sree Sagar simply serves the best Benne Dosa (butter dosa) in Bangalore.<br/><br/>(8).&nbsp;<b>The Green Path - The Forgotten Food</b> - Green Path is the brainchild of Mr. HR Jayram. Green Path’s restaurant called Green Bowl is largely vegetarian/vegan and organic. The buffets serve a range of millet based meals and other offbeat cereals.<br/><br/><h5><b>Things To See</b></h5>(1).&nbsp;<b>Graffiti</b> - In 2012, a group of artists went around the locality and painted several walls with eye-catching and colorful murals. Check out the one with the caption “Ignorance is Blindness of the Soul,” near 6th Cross on Sampige Road; “Bang Bang,” near 18th Cross; and some thought provoking art at the Malleswaram Railway Station.<br/><br/>(2).&nbsp;<b>Sankey Tank</b> - Sankey Tank is a man made lake in the middle of the suburbs of Malleshwaram, Vyalikaval and Sadashivanagara. This lake covers an area of about 37 acres. It has a maximum depth of upto 30 feet and surface elevation of upto 3050 feet. Sankey Tank is named after its constructor Col. Richard Hieram Sankey of the Madras Sappers Regiment. It was made to meet the water supply demands of Bangalore. The tank was also known as Gandhadha Kotikere , as the sandalwood depot used to be located near the lake. There is no entry fee. Here there is a park that houses a small pond, open gym equipment, a duck house in the lake and a lot of pigeons that are fed regularly.<br/><br/>(3).&nbsp;<b>Chowdiah Memorial Hall</b> - Named after the violin maestro Tirumakudalu Chowdiah, this is one of the most prominent landmarks of Malleswaram and Bangalore. The stage has embraced and given a creative space to classical Indian musicians, nurtured young Bharatanatyam dancers, heard the heartbeat of African drums, lent an ear to experimental and fusion music, seen the revival of jazz in the country and is home to best theatre experiences. This 1,011-seater hall has perfectly balanced acoustics, recently upgraded with digital crossovers, graphic equalizers, modern mixing consoles and echo units.<br/><br/>(4).&nbsp;<b>Gupta Circulating Library</b> - For over 60 years, the Gupta Circulating Library has supplied Malleswaram’s readers with magazines in a variety of languages and thousands of books from its modest premises on the busy Sampige Road.<br/><br/>(5).&nbsp;<b>Art of Living International Centre</b> - An ideal place to attain spiritual knowledge and peace of mind, focusing on meditation, satsang and seva, this ashram offers help in experiencing spiritual bliss and inner satisfaction and also an opportunity to volunteer.<br/><br/>(6).&nbsp;<b>Indian Institute of Science</b> - The Indian Institute of Science (IISc) was established in 1909. Bangalore would have lost the prestigious Indian Institute of Science to Roorkee if it had not been for the timely initiative of Mysore Maharani Vani Vilas Sannidhana back in 1901. On behalf of her young son Krishna Raja Wodeyar Bahadur IV, the queen assigned 371 acres of land free of cost at Bangalore and an annual grant of Rs 18,000 a year towards expenses of establishing a research institute. Eventually Viceroy Lord Minto approved the establishment of the Institute, named Indian Institute of Science by Masson and Clifford, on 27th May 1909.  IISc is central to the science community in Bangalore and one of the largest green spaces in Bangalore.<br/><br/>(7).&nbsp;<b>World Music Conservatory</b> - This music school offers a variety of courses on everything from the mandolin and konnakol to jazz and guitar. Set up by percussionist Gopi, vocalist Sangeeta Srikishen and Sathish Varadarajan in 2008, the school also offers classes for free to the less well-off.<br/><br/>(8).&nbsp;<b>Natya Institute of Kathak and Choreography</b> - Dr. Maya Rao’s singular institution caters to the professional and hobbyist alike, with courses on dance and choreography ranging from a three-year Bachelor’s programme to various beginners’ classes in kathak and contemporary dance.<br/>",
+        "treasureHuntFAQ":null,
+        "treasureHuntTravel":"<h4><b>How to reach Malleswaram?</b></h4><b>By Metro :</b> Majestic serves as the interchange station allowing passengers to transfer between the Purple Line and the Green Line.<br/><br/><b>Bus:</b> There are direct buses from important places like Majestic, Shivajinagar, Madiwala, VijayaNagara TTMC, KR Market, Yeshwantpura, Silk Board, Electronic City, Hebbal, KR Puram, ITPL, Marathahalli, Shanthi Nagar, Mysore Road Satellite bus stand.<br/><br/><b>Uber/Ola/ Auto :</b> You can take Uber, Ola or auto from any corner of the city to reach Malleswaram.<br/>",
+        "galleryImages":null,
+        "treasureHuntIcons":[{"iconName":"historical"},{"iconName":"walk"},{"iconName":"building"}],
+        "eventTimings":"Start anytime between 9 AM- 4 PM",
+        "eventDate":"All Days",
+        "rate":"popular",
+        "treasureHuntPrice":null,
+        "eventId":null,
+        "aggregateRatings":{
+            "reviewCount":"11",
+            "ratingValue":"4.8"
+        }
+      },
+      {
+        "treasureHuntId": 55,
+        "thRank":-1,
+        "treasureHuntDetails": null,
+        "treasureHuntHistory": null,
+        "treasureHuntFAQ":null,
+        "galleryImages":null,
+        "treasureHuntIcons":[{"iconName":"travel"},{"iconName":"game"},{"iconName":"harbor"},{"iconName":"beach"}],
+        "eventTimings":"Start anytime between 9 AM- 4 PM",
+        "eventDate":"All Days",
+        "rate":"top_rated",
+        "treasureHuntPrice":null,
+        "eventId":null,
+        "aggregateRatings":{
+            "reviewCount":"49",
+            "ratingValue":"4.4"
+        }
+      },
+      {
+        "treasureHuntId": 9,
+        "thRank":-1,
+        "treasureHuntDetails": null,
+        "treasureHuntHistory": null,
+        "treasureHuntFAQ":null,
+        "galleryImages":null,
+        "treasureHuntIcons":[{"iconName":"monument"},{"iconName":"walk"},{"iconName":"morning"}],
+        "eventTimings":"Start anytime between 9 AM- 4 PM",
+        "eventDate":"All Days",
+        "rate":"new",
+        "treasureHuntPrice":null,
+        "eventId":null,
+        "aggregateRatings":{
+            "reviewCount":"13",
+            "ratingValue":"4.0"
+        }
+      },
+      {
+        "treasureHuntId": 11,
+        "thRank":-1,
+        "treasureHuntDetails": null,
+        "treasureHuntHistory": null,
+        "treasureHuntFAQ":null,
+        "galleryImages":null,
+        "treasureHuntIcons":[{"iconName":"monument"},{"iconName":"walk"},{"iconName":"selfie"}],
+        "eventTimings":"Start anytime between 9 AM- 4 PM",
+        "eventDate":"All Days",
+        "rate":"popular",
+        "treasureHuntPrice":null,
+        "eventId":null,
+        "aggregateRatings":{
+            "reviewCount":"18",
+            "ratingValue":"3.9"
+        }
+      },
+      {
+        "treasureHuntId": 46,
+        "thRank":-1,
+        "treasureHuntDetails": null,
+        "treasureHuntHistory": null,
+        "treasureHuntFAQ":null,
+        "galleryImages":null,
+        "treasureHuntIcons":[{"iconName":"business"},{"iconName":"locked"},{"iconName":"technology"}],
+        "eventTimings":"Start anytime between 9 AM- 4 PM",
+        "eventDate":"All Days",
+        "rate":"new",
+        "treasureHuntPrice":null,
+        "eventId":null,
+        "aggregateRatings":{
+            "reviewCount":"49",
+            "ratingValue":"4.0"
+        }
+      },
+      {
+        "treasureHuntId": 12,
+        "thRank":-1,
+        "treasureHuntDetails": null,
+        "treasureHuntHistory": null,
+        "treasureHuntFAQ":null,
+        "galleryImages":null,
+        "treasureHuntIcons":[{"iconName":"shopping"},{"iconName":"entertainment"}],
+        "eventTimings":"Start anytime between 9 AM- 4 PM",
+        "eventDate":"All Days",
+        "rate":"popular",
+        "treasureHuntPrice":null,
+        "eventId":null,
+        "aggregateRatings":{
+            "reviewCount":"21",
+            "ratingValue":"4.1"
+        }
+      },
+      {
+        "treasureHuntId": 2,
+        "thRank":-1,
+        "treasureHuntDetails": null,
+        "treasureHuntHistory": null,
+        "treasureHuntFAQ":null,
+        "galleryImages":null,
+        "treasureHuntIcons":[{"iconName":"technology"},{"iconName":"challenge"},{"iconName":"puzzle"}],
+        "eventTimings":"Start anytime between 9 AM- 4 PM",
+        "eventDate":"All Days",
+        "rate":"popular",
+        "treasureHuntPrice":null,
+        "eventId":null,
+        "aggregateRatings":{
+            "reviewCount":"55",
+            "ratingValue":"4.3"
+        }
+      },
+      {
+        "treasureHuntId": 29,
+        "thRank":-1,
+        "treasureHuntDetails": null,
+        "treasureHuntHistory": null,
+        "treasureHuntFAQ":null,
+        "galleryImages":null,
+        "treasureHuntIcons":[{"iconName":"entertainment"},{"iconName":"walk"},{"iconName":"travel"}],
+        "eventTimings":"Start anytime between 9 AM- 4 PM",
+        "eventDate":"All Days",
+        "rate":"popular",
+        "treasureHuntPrice":null,
+        "eventId":null,
+        "aggregateRatings":{
+            "reviewCount":"34",
+            "ratingValue":"3.8"
+        }
+      },
+      {
+        "treasureHuntId": 24,
+        "treasureHuntDetails": null,
+        "treasureHuntHistory": null,
+        "treasureHuntFAQ":null,
+        "galleryImages":null,
+        "treasureHuntIcons":[{"iconName":"shopping"},{"iconName":"walk"},{"iconName":"travel"}],
+        "eventTimings":"Start anytime between 9 AM- 4 PM",
+        "eventDate":"All Days",
+        "rate":"popular",
+        "treasureHuntPrice":null,
+        "eventId":null,
+        "aggregateRatings":{
+            "reviewCount":"23",
+            "ratingValue":"3.9"
+        }
+      },
+      {
+        "treasureHuntId": 23,
+        "treasureHuntDetails": null,
+        "treasureHuntHistory": null,
+        "treasureHuntFAQ":null,
+        "galleryImages":null,
+        "treasureHuntIcons":[{"iconName":"run"},{"iconName":"travel"},{"iconName":"findway"}],
+        "eventTimings":"Start anytime between 9 AM- 4 PM",
+        "eventDate":"All Days",
+        "rate":"popular",
+        "treasureHuntPrice":null,
+        "eventId":null,
+        "aggregateRatings":{
+            "reviewCount":"17",
+            "ratingValue":"4.0"
+        }
+      },
+      {
+        "treasureHuntId": 22,
+        "treasureHuntDetails": null,
+        "treasureHuntHistory": null,
+        "treasureHuntFAQ":null,
+        "galleryImages":null,
+        "treasureHuntIcons":[{"iconName":"historical"},{"iconName":"walk"}],
+        "eventTimings":"Start anytime between 9 AM- 4 PM",
+        "eventDate":"All Days",
+        "rate":"popular",
+        "treasureHuntPrice":null,
+        "eventId":null,
+        "aggregateRatings":{
+            "reviewCount":"29",
+            "ratingValue":"4.2"
+        }
+      },
+      {
+        "treasureHuntId": 21,
+        "treasureHuntDetails": null,
+        "treasureHuntHistory": null,
+        "treasureHuntFAQ":null,
+        "galleryImages":null,
+        "treasureHuntIcons":[{"iconName":"historical"},{"iconName":"walk"},{"iconName":"findway"}],
+        "eventTimings":"Start anytime between 9 AM- 4 PM",
+        "eventDate":"All Days",
+        "rate":"popular",
+        "treasureHuntPrice":null,
+        "eventId":null,
+        "aggregateRatings":{
+            "reviewCount":"37",
+            "ratingValue":"4.1"
+        }
+      },
+      {
+        "treasureHuntId": 31,
+        "treasureHuntDetails": null,
+        "treasureHuntHistory": null,
+        "treasureHuntFAQ":null,
+        "galleryImages":null,
+        "treasureHuntIcons":[{"iconName":"historical"},{"iconName":"run"}],
+        "eventTimings":"Start anytime between 9 AM- 4 PM",
+        "eventDate":"All Days",
+        "rate":"new",
+        "treasureHuntPrice":null,
+        "eventId":null,
+        "aggregateRatings":{
+            "reviewCount":"49",
+            "ratingValue":"4"
+        }
+      },
+      {
+        "treasureHuntId": 32,
+        "treasureHuntDetails": null,
+        "treasureHuntHistory": null,
+        "treasureHuntFAQ":null,
+        "galleryImages":null,
+        "treasureHuntIcons":[{"iconName":"historical"},{"iconName":"run"}],
+        "eventTimings":"Start anytime between 9 AM- 4 PM",
+        "eventDate":"All Days",
+        "rate":"new",
+        "treasureHuntPrice":null,
+        "eventId":null,
+        "aggregateRatings":{
+            "reviewCount":"22",
+            "ratingValue":"3.7"
+        }
+      },
+      {
+        "treasureHuntId": 36,
+        "treasureHuntDetails": null,
+        "treasureHuntHistory": null,
+        "treasureHuntFAQ":null,
+        "galleryImages":null,
+        "treasureHuntIcons":[{"iconName":"historical"},{"iconName":"run"}],
+        "eventTimings":"Start anytime between 9 AM- 4 PM",
+        "eventDate":"All Days",
+        "rate":"new",
+        "treasureHuntPrice":null,
+        "eventId":null,
+        "aggregateRatings":{
+            "reviewCount":"18",
+            "ratingValue":"3.2"
+        }
+      },
+      {
+        "treasureHuntId": 37,
+        "treasureHuntDetails": null,
+        "treasureHuntHistory": null,
+        "treasureHuntFAQ":null,
+        "galleryImages":null,
+        "treasureHuntIcons":[{"iconName":"historical"},{"iconName":"run"}],
+        "eventTimings":"Start anytime between 9 AM- 4 PM",
+        "eventDate":"All Days",
+        "rate":"new",
+        "treasureHuntPrice":null,
+        "eventId":null,
+        "aggregateRatings":{
+            "reviewCount":"44",
+            "ratingValue":"3.8"
+        }
+      },
+      {
+        "treasureHuntId": 43,
+        "treasureHuntDetails": null,
+        "treasureHuntHistory": null,
+        "treasureHuntFAQ":null,
+        "galleryImages":null,
+        "treasureHuntIcons":[{"iconName":"monument"},{"iconName":"walk"},{"iconName":"findway"}],
+        "eventTimings":"Start anytime between 9 AM- 4 PM",
+        "eventDate":"All Days",
+        "rate":"popular",
+        "treasureHuntPrice":null,
+        "eventId":null,
+        "aggregateRatings":{
+            "reviewCount":"33",
+            "ratingValue":"3.6"
+        }
+      }
+    ]
+  }
+}

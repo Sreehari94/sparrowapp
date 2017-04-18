@@ -1,0 +1,49 @@
+{
+  "header": {
+    "status": {
+      "statusCode": 0,
+      "statusMessage": "Browse TreasureHunts List Found"
+    }
+  },
+  "body": {
+    "treasureHunts": [
+      {
+        "cityId": 19,
+        "corporateName": "Sparrowz Hunts",
+        "corporateId": 2,
+        "treasureHuntName": "Srirangapattana Heritage",
+        "androidMinAppVersion": "1",
+        "iosMinAppVersion": "1",
+        "treasureHuntId": 43,
+        "treasureHuntDescription": "Explore the heritage treasures of Srirangapattana in our Namma Cycle.",
+        "geoLocationDetails": {
+          "geoId": 120,
+          "latitude": "12.421161",
+          "longitude": "76.692044",
+          "fenceRadius": 300
+        },
+        "treasureHuntImgUrl": [
+          "http://static.sparrowzapp.com/images/NammaCycle/SriRangaPatna/SPCover.jpg"
+        ],
+        "treasureHuntTags": [
+          {
+            "tagId": 65,
+            "tagName": "Dussehra"
+          },
+          {
+            "tagId": 66,
+            "tagName": "NammaCycle"
+          },
+          {
+            "tagId": 67,
+            "tagName": "HeritageMysuru"
+          }
+        ],
+        "approxTimeToPlay": 90,
+        "creditsMultiplier": 0.25,
+        "thReqCredits": 0,
+        "recCreatedUserId": "608"
+      }
+    ]
+  }
+}

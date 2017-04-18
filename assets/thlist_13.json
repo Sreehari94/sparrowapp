@@ -1,0 +1,49 @@
+{
+  "header": {
+    "status": {
+      "statusCode": 0,
+      "statusMessage": "Browse TreasureHunts List Found"
+    }
+  },
+  "body": {
+    "treasureHunts": [
+      {
+        "cityId": 13,
+        "corporateName": "GoUNESCO",
+        "corporateId": 5,
+        "treasureHuntName": "Patiala Gedhi Heritage",
+        "androidMinAppVersion": "1",
+        "iosMinAppVersion": "1",
+        "treasureHuntId": 32,
+        "treasureHuntDescription": "The Heritage treasure hunt of Patiala is planned to provide a glimpse into the glorious and valiant past and cherish memories of religious serenity and architectural beauty of which the present city of Patiala is proud.",
+        "geoLocationDetails": {
+          "geoId": 95,
+          "latitude": "30.320166",
+          "longitude": "76.401181",
+          "fenceRadius": 200
+        },
+        "treasureHuntImgUrl": [
+          "http://static.sparrowzapp.com/images/MakeHeritageFun/Patiala/PatialaCover_Fndtn.jpg"
+        ],
+        "treasureHuntTags": [
+          {
+            "tagId": 51,
+            "tagName": "MakeHeritageFun1"
+          },
+          {
+            "tagId": 52,
+            "tagName": "Sept25"
+          },
+          {
+            "tagId": 53,
+            "tagName": "Patiala"
+          }
+        ],
+        "approxTimeToPlay": 90,
+        "creditsMultiplier": 0.25,
+        "thReqCredits": 0,
+        "recCreatedUserId": "309"
+      }
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "header": {
+    "status": {
+      "statusCode": 0,
+      "statusMessage": "Browse TreasureHunts List Found"
+    }
+  },
+  "body": {
+    "treasureHunts": [
+      {
+        "cityId": 7,
+        "corporateName": "Sparrowz Hunts",
+        "corporateId": 2,
+        "treasureHuntName": "Explore T-Hub",
+        "androidMinAppVersion": "1",
+        "iosMinAppVersion": "1",
+        "treasureHuntId": 46,
+        "treasureHuntDescription": "Explore the India's largest incubator for Startups.",
+        "geoLocationDetails": {
+          "geoId": 123,
+          "latitude": "17.445544",
+          "longitude": "78.348844",
+          "fenceRadius": 300
+        },
+        "treasureHuntImgUrl": [
+          "http://static.sparrowzapp.com/images/Hyderabad/THub/DemoGame/THub_Cover.jpg"
+        ],
+        "treasureHuntTags": [
+          {
+            "tagId": 73,
+            "tagName": "THub"
+          },
+          {
+            "tagId": 74,
+            "tagName": "Startup"
+          },
+          {
+            "tagId": 75,
+            "tagName": "VenueDiscovery"
+          }
+        ],
+        "approxTimeToPlay": 30,
+        "creditsMultiplier": 0.1,
+        "thReqCredits": 0,
+        "recCreatedUserId": "627"
+      }
+    ]
+  }
+}

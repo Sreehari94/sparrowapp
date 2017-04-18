@@ -1,0 +1,155 @@
+<div style="background:url(img/textures/linen.png)">
+    <div class="container-fluid" id="homeBanner">
+        <div class="row">
+            <div class="col-md-6 col-sm-6" id="mobile-frame">
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/aDZGPSx0E4I?showinfo=0&rel=0" frameborder="0" allowfullscreen>
+                </iframe>
+            </div>
+            <div class="col-md-6 col-sm-6">
+                <div class="carousel slide" id="fade-quote-carousel" data-ride="carousel" data-interval="5000">
+                    <ol class="carousel-indicators">
+                        <li data-target="#fade-quote-carousel" data-slide-to="0" class="active"></li>
+                        <li data-target="#fade-quote-carousel" data-slide-to="1"></li>
+                        <li data-target="#fade-quote-carousel" data-slide-to="2"></li>
+                      </ol>
+                    <div class="carousel-inner">
+                        <div class="item active">
+                            <center>
+                                <div style="position:relative;font-size:40px;margin-top:100px;" class=".intro_title"><h1 style="color:whitesmoke;"><b>SPARROWZ</b> APP</h1></div><br/>
+                                <p style="color:white;font-size:20px;line-height:24px;">Sparrowz App helps gamify your experience while exploring places around you.</p><br/>
+                                    <div class="row download-content">
+                                        <div class="col-sm-6 col-md-6 col-xs-6">
+                                            <a href='https://play.google.com/store/apps/details?id=com.orionorbit.th&utm_source=global_co&utm_medium=prtnr&utm_content=Mar2515&utm_campaign=PartBadge&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1' target="_blank" onclick="playStoreLink()">
+                                                <img src="img/play_store.png" class="img-responsive">
+                                            </a>    
+                                        </div>
+                                        <div class="col-sm-6 col-md-6 col-xs-6">
+                                            <a href="https://itunes.apple.com/us/app/orion-orbit/id1069277931?ls=1&mt=8" target="_blank" onclick="iTuneStoreLink()">
+                                                <img src="img/app_store.png" class="img-responsive">
+                                            </a> 
+                                        </div>
+                                    </div>   
+                            </center>
+                        </div>
+                        <div class="item">
+                            <center>
+                                <div style="position:relative;font-size:40px;margin-top:100px;color:white"><h1 style="color:white">Exploring Done Right</h1></div><br/>
+                                <p style="color:white;font-size:20px;line-height:24px;">The world is filled with great things worth learning about. Bring that information to life and make it interesting.</p><br/>
+                            </center>
+                        </div>
+                        <div class="item">
+                            <center>
+                                <div style="position:relative;font-size:40px;margin-top:100px;"><h1 style="color:white">We are smart</h1></div><br/>
+                                <p style="color:white;font-size:20px;line-height:24px;">Meeting people and strengthening the bond  can be powerful.<br/>We make it easy and fun.</p> 
+                            </center>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>   
+    </div><br/>
+    <div class="container-fluid full-height">
+    	<div class="row row-height">
+        	<div class="col-md-12 content-left">
+                <div class="row">
+                <div class="dropdown mobile_menu" style="margin-top:12px;">
+                    <span class="icon-location-6" style="color:#d95064;font-size:18px;"></span>
+                    <button class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown" aria-expanded="false"><span ng-bind='selectedCity.cityName'></span>&nbsp;&nbsp;<b class="caret"></b></button>
+                    <ul class="dropdown-menu" id="citymenu" >
+                        <li ng-repeat="item in cityData.cityList | orderBy : 'cityDisplayName'"><a id="selectCity" ng-click="onCityChange(item.cityCode)">{{item.cityDisplayName}}</a></li>
+                    </ul>
+                </div>  
+                <br/>
+ 				<div class="col-md-3 col-sm-3" ng-repeat="item in thData.treasureHunts|orderBy:'-thRank' track by $index" ng-show="item.recCreatedUserId!=19">
+					<div class="tour_container animated slideInUp">
+						<div class="img_container">
+                            <a ng-href="{{selectedCity.cityCode}}/{{item.thShortName}}">
+    							<img ng-src='{{item.treasureHuntImgUrl[1]}}' class="img-responsive" alt="Image" onerror="this.src='img/no image.jpg'" >
+                            </a>
+                            <div class="badge_save" ng-if="item.rate=='top_rated'">Top<br/>Rated</div>    
+    						<div class="row short_info">
+                                    <h3 class="thName">{{item.treasureHuntName}}</h3>
+                            </div>
+						</div>
+						<div class="tour_title">
+							<span class="tag_section" ng-if="item.treasureHuntDetails" ng-bind-html="item.treasureHuntDetails|limitTo:55"></span><span>...</span><a style="cursor:pointer;" ng-click="goToEventPage(item.treasureHuntName, item.treasureHuntId)">More</a>
+                            <div class="row iconTags">
+                                <div class="col-md-6 col-sm-6">
+                                    <div ng-if="item.treasureHuntIcons[0]" style="margin-top:5px;">
+                                        <a ng-repeat="icon in item.treasureHuntIcons" data-toggle="tooltip" data-placement="bottom" title="{{icon.iconName}}" class="tag_icon" id="{{icon.iconName}}"></a>
+                                    </div>
+                                </div>
+                                <div class="col-md-6 col-sm-6">
+                                    <div ng-if="item.eventId">
+                                        <a ><button type="button" class="ticketButton" data-toggle="tooltip" data-placement="bottom" title="Go to events page" ng-click="goToEventPage(item.treasureHuntName, item.treasureHuntId)">Buy Tickets</button></a>
+                                    </div>
+                                    <a ><button type="button" class="freelabel" ng-if="item.thReqCredits==0 && item.eventId==null" data-toggle="tooltip" data-placement="bottom" title="No credits or payment is required to play this game">Free</button></a>
+
+                                    <a ><button type="button" class="credits" ng-if="item.thReqCredits!=0 && item.eventId==null" data-toggle="tooltip" data-placement="bottom" title="{{item.thReqCredits}} Sparrowz credits is required to play this game">{{item.thReqCredits}}&nbsp;Credits</button></a>
+                                </div>
+                            </div>
+						</div>
+					</div><!-- End box tour -->
+				</div><!-- End col-md-6 -->
+			
+            </div><!-- End row -->
+                
+               
+        </div>
+            
+            
+        </div><!-- End row-->
+        <div class="row banner counter_row">
+                <div class="col-md-2 col-sm-2">
+                    <center><img src="img/tea.png" class="counter_image"></center>
+                    <div class="counter" data-count="13362">0</div>
+                    <div class="counter_text"><center>Filter Coffees</center></div>
+                </div>
+                <div class="col-md-1 col-sm-1">
+                    <center><img src="img/equal.png" style="margin-top:20px;" class="counter_image"></center>
+                </div>
+                <div class="col-md-2 col-sm-2">
+                    <center><img src="img/clue.png" class="counter_image"></center>
+                    <div class="counter" data-count="1524">0</div>
+                    <div class="counter_text"><center>Clues</center></div>
+                </div>
+                <div class="col-md-2 col-sm-2">
+                    <center><img src="img/treasure.png" class="counter_image"></center>
+                    <div class="counter" data-count="75">0</div>
+                    <div class="counter_text"><center>Quests</center></div>
+                </div>
+                 <div class="col-md-3 col-sm-3">
+                    <center><img src="img/customers.png" class="counter_image"></center>
+                    <div><span class="counter" data-count="2000">0</span><span style="font-size:36px;vertical-align:middle;">+</span></div>
+                    <div class="counter_text"><center>Satisfied Customers</center></div>
+                </div>
+                <div class="col-md-2 col-sm-2">
+                    <center><img src="img/city.png" class="counter_image"></center>
+                    <div class="counter" data-count="14">0</div>
+                    <div class="counter_text"><center>Cities</center></div>
+                </div>   
+        </div>    
+    </div><!-- End container-fluid -->
+    <script>
+        $('.counter').each(function() {
+            var $this = $(this),
+                countTo = $this.attr('data-count');
+              
+            $({ countNum: $this.text()}).animate({
+                countNum: countTo
+            },
+
+            {
+                duration: 10000,
+                easing:'linear',
+                step: function() {
+                    $this.text(Math.floor(this.countNum));
+                },
+                complete: function() {
+                    $this.text(this.countNum);
+                }
+            });  
+        });
+    </script>
+
+</div>

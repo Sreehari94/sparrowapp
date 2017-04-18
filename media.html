@@ -1,0 +1,89 @@
+<div style="background:url(img/textures/linen.png)">
+	<div class="container" style="margin-top:60px;background:transparent;"></div>
+		<!--Page for As seen on-->
+		<!--Newspaper section-->
+		<div class="container-fluid">
+			<center>
+				<h3 style="font-size:32px;"><span>Media</span></h3>
+			</center>
+			<div class="row">
+				<div class="col-md-4 col-sm-4">
+					<a href="http://www.timesofindia.indiatimes.com/city/bengaluru/treasure-hunts-a-fun-way-to-explore-bengaluru/articleshow/56999801.cms" target="_blank">
+						<center><img src="img/TOI.png" class="img-responsive"></center>
+					</a>	
+				</div>
+				<div class="col-md-4 col-sm-4">
+					<a href="http://www.newindianexpress.com/cities/bengaluru/2017/jan/19/theres-a-treasure-hunt-in-the-bengaluru-are-you-in-1561029.html" target="_blank">	
+						<center><img src="img/NIE.png" class="img-responsive"></center>
+					</a>	
+				</div>
+				<div class="col-md-4 col-sm-4">
+					<a href="http://www.thehindu.com/todays-paper/tp-features/tp-metroplus/talking-point/article17405877.ece" target="_blank">
+						<center><img src="img/TH.png" class="img-responsive"></center>
+					</a>	
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-md-4 col-sm-4">
+					<a href="https://lbb.in/bangalore/sparrowz-treasure-hunt-app/" target="_blank">
+						<center><img src="img/LBB.png" class="img-responsive"></center>
+					</a>	
+				</div>
+				<div class="col-md-4 col-sm-4">
+					<a href="http://www.deccanchronicle.com/lifestyle/viral-and-trending/181216/in-search-of-fun-treasures.html" target="_blank">
+						<center><img src="img/DC.png" class="img-responsive"></center>
+					</a>	
+				</div>
+				<div class="col-md-4 col-sm-4">
+					<a href="http://www.deccanherald.com/content/583751/now-app-based-treasure-hunt.html" target="_blank">
+						<center><img src="img/DH.png" class="img-responsive"></center>
+					</a>	
+				</div>		
+			</div>
+		</div>	
+		<br/>
+		<!--Video section-->
+		<div class="container margin_60">
+			<center><h3 style="font-size:32px;"><span>Testimonial</span></h3></center>
+			<div class="col-md-4 col-sm-4" ng-repeat="item in mediaData.videoData">
+				<div class="tour_container">
+					<div class="img_container">
+						<a data-toggle="modal" data-target="#videoModal" ng-click="showVideo(item.videoTitle, item.videoUrl)">
+							<img ng-src="{{item.videoThumbNail}}" class="img-responsive" alt="Image">
+						</a>	
+					</div>
+					<div class="tour_title">
+						<center>
+							<h4>{{item.videoTitle}}</h4>
+							<button type="button" class="btn btn-info btn-lg" style="background-color:transparent;border-color:#8260AC;color:#8260AC" data-toggle="modal" data-target="#videoModal" ng-click="showVideo(item.videoTitle, item.videoUrl)">Play Video</button>
+						</center>
+					</div>					
+				</div><!-- End box tour -->
+			</div>
+		</div>		
+	</div>
+	<!--Modal to play video-->
+	<div id="videoModal" class="modal fade" role="dialog">
+	  	<div class="modal-dialog">
+		<!-- Modal content-->
+	    	<div class="modal-content">
+	      		<div class="modal-header" style="background-color:black;border-bottom:0px;">
+	        		<button type="button" class="close" data-dismiss="modal">&times;</button>
+	        		<h4 class="modal-title" style="color:white;">{{videoQueries.videoTitle}}</h4>
+	      		</div>
+	      		<div class="modal-body" style="background-color:black;">
+	      			
+	      		</div>
+	    	</div>
+	  	</div>
+	</div>
+	<script>
+	$('#videoModal').on('show.bs.modal', function () {
+		console.log("Showing the video");	
+	});
+	$('#videoModal').on('hidden.bs.modal', function () {
+		console.log("On closing the modal");
+	  	$('div.modal-body').html('');  
+	});
+	</script>
+</div>

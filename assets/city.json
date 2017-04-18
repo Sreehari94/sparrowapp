@@ -1,0 +1,90 @@
+{
+  "header": {
+    "status": {
+      "statusCode": 0,
+      "statusMessage": "City data Found successfully."
+    }
+  },
+  "body": {
+    "cityList": [
+      {
+        "cityId": 1,
+        "cityName": "Bengaluru",
+        "cityCode": "BLR",
+        "cityDisplayName": "Bengaluru"
+      },
+      {
+        "cityId": 2,
+        "cityName": "Kochi",
+        "cityCode": "KCH",
+        "cityDisplayName": "Kochi"
+      },
+      {
+        "cityId": 3,
+        "cityName": "Delhi",
+        "cityCode": "DEL",
+        "cityDisplayName": "Delhi"
+      },
+      {
+        "cityId": 5,
+        "cityName": "Agra",
+        "cityCode": "AGR",
+        "cityDisplayName": "Agra"
+      },
+      {
+        "cityId": 7,
+        "cityName": "Hyderabad",
+        "cityCode": "HYD",
+        "cityDisplayName": "Hyderabad"
+      },
+      {
+        "cityId": 9,
+        "cityName": "Dubai",
+        "cityCode": "DXB",
+        "cityDisplayName": "Dubai"
+      },
+      {
+        "cityId": 10,
+        "cityName": "Mountain View",
+        "cityCode": "MV",
+        "cityDisplayName": "Mt.View"
+      },
+      {
+        "cityId": 11,
+        "cityName": "Rio De Janeiro",
+        "cityCode": "RIO",
+        "cityDisplayName": "Rio"
+      },
+      {
+        "cityId": 12,
+        "cityName": "Kingston",
+        "cityCode": "KGT",
+        "cityDisplayName": "Kingston"
+      },
+      {
+        "cityId": 13,
+        "cityName": "Patiala",
+        "cityCode": "PTL",
+        "cityDisplayName": "Patiala"
+      },
+      {
+        "cityId": 16,
+        "cityName": "Byblos",
+        "cityCode": "BYB",
+        "cityDisplayName": "Byblos"
+      },
+      {
+        "cityId": 17,
+        "cityName": "Rome",
+        "cityCode": "ROM",
+        "cityDisplayName": "Rome"
+      },
+      {
+        "cityId": 19,
+        "cityName": "Mysuru",
+        "cityCode": "MYS",
+        "cityDisplayName": "Mysuru"
+      }
+    ]
+  }
+}

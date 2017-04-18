@@ -1,0 +1,68 @@
+{
+  "header": {
+    "status": {
+      "statusCode": 0,
+      "statusMessage": "Media data found successfully."
+    }
+  },
+  "body": {
+    "mediaQueries": [
+      {
+        "mediaThumbNail":"img/News1.jpg",
+        "mediaUrl":"http://www.deccanherald.com/content/583751/now-app-based-treasure-hunt.html",
+        "mediaDescription":"If you are looking for a fun way to explore Cubbon Park’s heritage structures...",
+        "publisher":"img/DH.png",
+        "dateOfPublish":"27th November 2016"
+      },
+      {
+        "mediaThumbNail":"img/News2.jpg",
+        "mediaUrl":"http://www.deccanchronicle.com/lifestyle/viral-and-trending/181216/in-search-of-fun-treasures.html",
+        "mediaDescription":"As we arrive towards the last leg of 2016, city folk believe in bringing the year...",
+        "publisher":"img/DC.png",
+        "dateOfPublish":"18th December 2016"
+      },
+      {
+        "mediaThumbNail":"img/News3.jpg",
+        "mediaUrl":"https://lbb.in/bangalore/sparrowz-treasure-hunt-app/",
+        "mediaDescription":"If you’re looking to explore parts of Bangalore over the weekend while getting a light workout...",
+        "publisher":"img/LBB.png",
+        "dateOfPublish":"13th January 2017"
+      },
+      {
+        "mediaThumbNail":"img/News4.jpg",
+        "mediaUrl":"http://www.newindianexpress.com/cities/bengaluru/2017/jan/19/theres-a-treasure-hunt-in-the-bengaluru-are-you-in-1561029.html",
+        "mediaDescription":"Play this game and you will no more look past the heritage sites of the city...",
+        "publisher":"img/NIE.png",
+        "dateOfPublish":"19th January 2017"
+      },
+      {
+        "mediaThumbNail":"img/News5.JPG",
+        "mediaUrl":"http://www.timesofindia.indiatimes.com/city/bengaluru/treasure-hunts-a-fun-way-to-explore-bengaluru/articleshow/56999801.cms",
+        "mediaDescription":"The beauty of Bengaluru lies in the eclectic blend of old-world charm and new-age mentality...",
+        "publisher":"img/TOI.png",
+        "dateOfPublish":"7th February 2017"
+      },
+      {
+        "mediaThumbNail":"img/News6.JPG",
+        "mediaUrl":"http://www.thehindu.com/todays-paper/tp-features/tp-metroplus/talking-point/article17405877.ece",
+        "mediaDescription":"The all new Sparrowz App has created a 90-minute quest in the scenic Cubbon Park. ...",
+        "publisher":"img/TH.png",
+        "dateOfPublish":"4th March 2017"
+      }
+    ],
+    "videoData":[
+      {
+        "videoId":1,
+        "videoTitle":"Glimpse on Cubbon Quest Customer Feedback",
+        "videoUrl":"https://www.youtube.com/embed/_uyYABuMi38?showinfo=0&autoplay=1&rel=0",
+        "videoThumbNail":"img/CubbonQuest.JPG"
+      },
+      {
+        "videoId":2,
+        "videoTitle":"Inorbit V-Day Special Quest Customer Feedback",
+        "videoUrl":"https://www.youtube.com/embed/c8O9zMG5Fkw?showinfo=0&autoplay=1&rel=0",
+        "videoThumbNail":"img/SparrowzInorbit.jpg"
+      }
+    ]
+  }
+}

@@ -1,0 +1,103 @@
+<div id="fb-root"></div>
+    <script>(function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4&appId=953225268071296";
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));</script>
+    <div class="layer"></div>
+    <!-- Mobile menu overlay mask -->
+
+    <!-- Header Plain:  add the id plain to header and change logo.png to logo_sticky.png ======================= -->
+    <header id="plain">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-md-2 col-sm-2 col-xs-3">
+                     <div id="logo_home">
+                        <h1><a ui-sref="app.home" title="Sparrowz App">Sparrowz App</a></h1>
+                    </div>
+                </div>
+                <div class="col-md-8 col-sm-8 col-xs-8 mobile_nav">
+	                <nav class="navbar " role="navigation">
+					    <div class="container-fluid" id="navfluid">
+					       <div class="navbar-header">
+						       	<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navigationbar" style="border:1px white solid;border-radius:4px;">
+						       	<span class="sr-only">Toggle navigation</span>
+						       	<span class="icon-bar" style="background:white;"></span>
+						       	<span class="icon-bar" style="background:white;"></span>
+						       	<span class="icon-bar" style="background:white;"></span>
+						      	</button>
+					    	</div>
+							<div class="collapse navbar-collapse" id="navigationbar">
+								<ul class="nav navbar-nav">
+							   		<li class="active"><a data-toggle="collapse" data-target=".in" ng-href="{{selectedCity.cityCode}}/ourQuests" onclick="homePage()" class="nav_list_item active">Our Quests</a></li>
+                                    <li><a data-toggle="collapse" data-target=".in" href="yourQuests" onclick="yourQuestsPage()" class="nav_list_item active">Your Quests</a></li>
+                                    <!-- <li><a data-toggle="collapse" data-target=".in" href="contest"  onclick="contestPage()" class="nav_list_item">Contest</a></li> -->
+							   		<li><a data-toggle="collapse" data-target=".in" href="asSeen"  onclick="asSeenOnPage()" class="nav_list_item">As Seen</a></li>
+							    	<li><a data-toggle="collapse" data-target=".in" href="contact" onclick="contactPage()" class="nav_list_item">Contact</a></li>
+                                    <li class="blogLink"><a data-toggle="collapse" data-target=".in" href="blog" target="_blank" onclick="blogPage()" class="nav_list_item">Blog</a></li>    
+								</ul>
+							</div><!-- /.navbar-collapse -->
+						</div><!-- /.container-fluid -->
+					</nav>
+				</div>
+                <div class="col-md-2 col-sm-2 col-xs-2 web_menu">
+            		<div class="dropdown" style="margin-top:12px;float:right;margin-right:10px;">
+	                    <span class="icon-location-6" style="color:white;font-size:18px;"></span>
+	                    <button class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown" aria-expanded="false"><span ng-bind='selectedCity.cityName'></span>&nbsp;&nbsp;<b class="caret"></b></button>
+	                    <ul class="dropdown-menu" id="citymenu">
+	                        <li ng-repeat="item in cityData.cityList | orderBy : 'cityDisplayName'"><a id="selectCity" ng-click="onCityChange(item.cityCode)">{{item.cityDisplayName}}</a></li>
+	                    </ul>
+	                </div>
+	            </div>    
+            </div>
+        </div><!-- container -->
+    </header>
+	<div ui-view></div>
+    <footer>
+        <div class="container-fluid">
+            <div class="row" style="margin-left:5px;margin-right:5px;">
+                <div class="col-md-4 col-sm-4" style="margin-top:30px;display:inline-block;">
+                   <center><span style="font-size:14px;float:left;padding-top:7px;">Cities we cover : </span><span class="cityTags" ng-repeat="item in cityData.cityList | orderBy : 'cityDisplayName'"><a ng-href="{{item.cityCode}}/ourQuests">{{item.cityName}}<span ng-if="item.cityCode=='BLR'">/Bangalore</span></a></span></center>
+                </div>
+                <div class="col-md-4 col-sm-4" style="margin-top:30px;display:inline-block;">
+                    <center><div style="color:whitesmoke;margin-bottom:20px;font-size:18px;">Download Sparrowz App</div></center>
+                    <div class="col-sm-6 col-md-6 col-xs-6">
+                        <a href='https://play.google.com/store/apps/details?id=com.orionorbit.th&utm_source=global_co&utm_medium=prtnr&utm_content=Mar2515&utm_campaign=PartBadge&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1' target="_blank" onclick="playStoreLink()">
+                            <img src="img/play_store.png" class="img-responsive">
+                        </a>    
+                    </div>
+                    <div class="col-sm-6 col-md-6 col-xs-6">
+                        <a href="https://itunes.apple.com/us/app/orion-orbit/id1069277931?ls=1&mt=8" target="_blank" onclick="iTuneStoreLink()">
+                            <img src="img/app_store.png" class="img-responsive">
+                        </a> 
+                    </div>
+                </div>
+                <div class="col-md-4 col-sm-4" style="margin-top:30px;display:inline-block;">
+                    <div class="fb-page" data-href="https://www.facebook.com/sparrowzapp/" data-tabs="timeline" data-height="150px" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/sparrowzapp/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/sparrowzapp/">Sparrowz</a></blockquote></div>
+                </div>                            
+            </div>
+            <hr style="color:white">
+            <div class="row">
+                <div class="col-md-12">
+                    <div id="social_footer">
+                        <ul>
+                            <li><a href="https://www.facebook.com/sparrowzapp" target="_blank" onclick="iconFacebookClick()"><i class="icon-facebook"></i></a></li>
+                            <li><a href="https://twitter.com/SparrowzApp" target="_blank" onclick="iconTwitterClick()"><i class="icon-twitter"></i></a></li>
+                            <li><a href="https://www.instagram.com/sparrowzapp/" target="_blank" onclick="iconInstagramClick()"><i class="icon-instagram"></i></a></li>
+                            <li><a href="https://www.youtube.com/channel/UCub-mO2TNPws70R6patI4PQ" target="_blank" onclick="iconYouTubeClick()"><i class="icon-youtube-play"></i></a></li>
+                        </ul>
+                        <p style="padding:0px;margin:0px;">© 2017 <a href="http://www.indisparrow.com/" target="_blank">IndiSparrow Technologies Pvt. Ltd.</a></p>
+                    </div>
+                </div>
+            </div><!-- End row -->
+        </div><!-- End container -->
+    </footer><!-- End footer -->
+    <script>
+        $(".blogLink a").click(function(event){
+          event.preventDefault();
+          window.open("http://www.sparrowzapp.com/blog");
+    }); 
+    </script>    
+

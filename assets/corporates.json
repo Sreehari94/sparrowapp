@@ -1,0 +1,153 @@
+{
+  "header": {
+    "status": {
+      "statusCode": 0,
+      "statusMessage": "Corporates data found successfully."
+    }
+  },
+  "body": {
+    "corporateList": [
+      {
+        "categoryId":1,
+        "pageName":"employee-engagement",
+        "pageTitle":"Employee Enagagement Experiences",
+        "categories":[
+          {
+            "story":"Conducted an outdoor team building event at Cubbon Park for delegates attending client XYZ's week long workshop",
+            "bgUrl":"img/corporates/quests/dazzler.JPG",
+            "questTags":[{"tagName":"Learning Workshops"},{"tagName":"Company Outdoors"}]
+          },
+          {
+            "story":"Cluedo like games with Creative Game Designs to reinforce learning objectives for a top tier management consultancy",
+            "bgUrl":"img/corporates/quests/immpl.jpg",
+            "questTags":[{"tagName":"Trivia Challenge"},{"tagName":"TeamBuilding"}]
+          },
+          {
+            "story":"Built a long standing discovery experience inside a large Technology campus to smoothen a new hire's integration into the system",
+            "bgUrl":"img/corporates/quests/discovery.JPG",
+            "questTags":[{"tagName":"NewHireOrientation"}]
+          },
+          {
+            "story":"Merged seamlessly into a company offsite event to drive heightened team work in a competitive game play setting",
+            "bgUrl":"img/corporates/quests/outdoor.JPG",
+            "questTags":[{"tagName":"Offsite"},{"tagName":"Onboarding"}]
+          }
+        ],
+        "corporateTags":[{"tagName":"Workshops"},{"tagName":"TeamBuilding"},{"tagName":"NewHireOrientation"}]
+      },
+      {
+        "categoryId":2,
+        "pageName":"visitor-engagement",
+        "pageTitle":"Visitor Engagement through Venue Discovery",
+        "categories":[
+          {
+            "story":"Helped a museum come alive for their visitors through an immersive series of multi-sensory challenges in a simple game",
+            "bgUrl":"img/corporates/quests/museum.JPG",
+            "questTags":[{"tagName":"Museums"},{"tagName":"Parks&Zoos"}]
+          },
+          {
+            "story":"Created a quest inside ABC mall for couples, families and friends to engage during Valentine's day weekend",
+            "bgUrl":"img/corporates/quests/valentine.jpg",
+            "questTags":[{"tagName":"ShoppingMalls"},{"tagName":"Resorts"}]
+          },
+          {
+            "story":"Help conference organizers deliver heightened value to all stalls and sponsors, while dramatically improving expo visitor experience",
+            "bgUrl":"img/corporates/quests/mall.jpg",
+            "questTags":[{"tagName":"Conferences"},{"tagName":"Expo"}]
+          }
+        ],
+        "corporateTags":[{"tagName":"Museums"},{"tagName":"ShoppingMalls"},{"tagName":"Conferences"}]
+      },
+      {
+        "categoryId":3,
+        "pageName":"product-launch",
+        "pageTitle":"Product Launch and Business Discovery Experience",
+        "categories":[
+          {
+            "story":"Help a sports team, deliver a fan engagement event with top stars while appreciating the divesity of the team",
+            "bgUrl":"img/corporates/quests/sport.jpg",
+            "questTags":[{"tagName":"Brand"},{"tagName":"SportsTeam"}]
+          },
+          {
+            "story":"Helped a new product understand customer taste graphs for a product launch through an engaging game",
+            "bgUrl":"img/corporates/quests/product.jpg",
+            "questTags":[{"tagName":"NewMerchandise"},{"tagName":"Brand"}]
+          }
+        ],
+        "corporateTags":[{"tagName":"BrandManager"},{"tagName":"Sports"},{"tagName":"MovieLaunch"}]
+      },
+      {
+        "categoryId":4,
+        "pageName":"local-area-discovery",
+        "pageTitle":"Local Area Discovery",
+        "categories":[
+          {
+            "story":"Help the tourism department of a country to showcase their heritage in a gamified fashion for all local citizens to engage deeply with the heritage",
+            "bgUrl":"img/corporates/quests/run.JPG",
+            "questTags":[{"tagName":"TourismDept"},{"tagName":"HeritageRun"}]
+          },
+          {
+            "story":"Helped a highly popular local tour guide to make his monthly walk a regular offering to all visitors to the location ",
+            "bgUrl":"img/corporates/quests/heritage.jpg",
+            "questTags":[{"tagName":"TravelGuides"},{"tagName":"LocalEventOrganizers"}]
+          }
+        ],
+        "corporateTags":[{"tagName":"EventManagers"},{"tagName":"TourOperators"},{"tagName":"LocalCommunities"}]
+      },
+      {
+        "categoryId":5,
+        "pageName":"real-world-games",
+        "pageTitle":"Real World Games",
+        "categories":[
+          {
+            "story":"Partner Built a real world discovery race to deliver a compelling complementary experience to customers",
+            "bgUrl":"img/corporates/quests/orchard.jpg",
+            "questTags":[{"tagName":"EscapeRooms"},{"tagName":"HeritageWalks"}]
+          },
+          {
+            "story":"Allowed a local cycling group to have a customized experience while organising a morning 10k ride, in collaboration with a local restaurant",
+            "bgUrl":"img/corporates/quests/cycletrail.jpg",
+            "questTags":[{"tagName":"CycleTrails"},{"tagName":"AmazingRace"}]
+          }
+        ],
+        "corporateTags":[{"tagName":"FoodWalks"},{"tagName":"HeritageWalks"},{"tagName":"MurderMystery"}]
+      },
+      {
+        "categoryId":6,
+        "pageName":"private-function",
+        "pageTitle":"Private Function",
+        "categories":[
+          {
+            "story":"Organised outdoor quests for birthday parties of kids between the age group of 9-13",
+            "bgUrl":"img/corporates/quests/birthday.JPG",
+            "questTags":[{"tagName":"BirthdayParty"},{"tagName":"FindTreasure"}]
+          },
+          {
+            "story":"Captivated guests attending a destination wedding through quests designed for exploring the nearby local areas and touristic spots.",
+            "bgUrl":"img/corporates/quests/wedding.JPG",
+            "questTags":[{"tagName":"WeddingEvent"},{"tagName":"GuestEngagement"}]
+          }
+        ],
+        "corporateTags":[{"tagName":"BirthdayParty"},{"tagName":"WeddingEvent"},{"tagName":"Quizzes"}]
+      },
+      {
+        "categoryId":7,
+        "pageName":"campus-engagement",
+        "pageTitle":"Campus Engagement",
+        "categories":[
+          {
+            "story":"Used for treasure hunts during the college fests of leading colleges in Bangalore and helped visitors discover the college campus",
+            "bgUrl":"img/corporates/quests/campushero.jpg",
+            "questTags":[{"tagName":"InductionEvents"},{"tagName":"CollegeFests"}]
+          },
+          {
+            "story":"Engaged a department in competiting with all their students and professors while discovering every nook and corner of their college ",
+            "bgUrl":"img/corporates/quests/campus.jpg",
+            "questTags":[{"tagName":"CampusDiscovery"},{"tagName":"AmazingRace"}]
+          }
+        ],
+        "corporateTags":[{"tagName":"InductionEvents"},{"tagName":"CollegeFests"},{"tagName":"CampusDiscovery"}]
+      }
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "header": {
+    "status": {
+      "statusCode": 0,
+      "statusMessage": "Browse TreasureHunts List Found"
+    }
+  },
+  "body": {
+    "treasureHunts": [
+      {
+        "cityId": 2,
+        "corporateName": "Marriott Hotels",
+        "corporateId": 6,
+        "treasureHuntName": "Concierge Mate",
+        "androidMinAppVersion": "1",
+        "iosMinAppVersion": "1",
+        "treasureHuntId": 55,
+        "treasureHuntDescription": "Desinged to offer a quick tour of fort kochi's highlight locations. Enjoy!",
+        "geoLocationDetails": {
+          "geoId": 23,
+          "latitude": "9.968258",
+          "longitude": "76.243270",
+          "fenceRadius": 100
+        },
+        "treasureHuntImgUrl": [
+          "http://static.sparrowzapp.com/images/Kochi/FortKochi/Cheenavala_pic.jpg"
+        ],
+        "treasureHuntTags": [],
+        "approxTimeToPlay": 90,
+        "creditsMultiplier": 0.25,
+        "thReqCredits": 0,
+        "recCreatedUserId": "44"
+      }
+    ]
+  }
+}

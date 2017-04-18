@@ -1,0 +1,971 @@
+{
+  "header": {
+    "status": {
+      "statusCode": 0,
+      "statusMessage": "Browse TreasureHunts List Found"
+    }
+  },
+  "body": {
+    "treasureHunts": [
+      {
+        "cityId": 1,
+        "corporateName": "Sparrowz Hunts",
+        "corporateId": 2,
+        "treasureHuntName": "Find Lakes and Click Selfies",
+        "androidMinAppVersion": "1",
+        "iosMinAppVersion": "1",
+        "treasureHuntId": 63,
+        "treasureHuntDescription": "The city once had 280-285 lakes of which 7 cannot be traced, 7 are reduced to small pools of water, 18 have been unauthorised encroached and several other lakes encroached for urban infrastructure and as result, in the heart of the city only 17 good lakes exist as against 51 healthy lakes in 1985.Many lakes are in fairly advanced state of deterioration.<BR/><BR/>Of the several freshwater lakes we take you to the notable ones in the city.",
+        "geoLocationDetails": {
+          "geoId": 292,
+          "latitude": "12.905159",
+          "longitude": "77.614943",
+          "fenceRadius": 300
+        },
+        "treasureHuntImgUrl": [
+          "http://static.sparrowzapp.com/images/Bengaluru/BangaloreLakes/Bangalore_Lake.jpg"
+        ],
+        "treasureHuntTags": [
+          {
+            "tagId": 91,
+            "tagName": "Lakes&Selfies"
+          }
+        ],
+        "approxTimeToPlay": 180,
+        "creditsMultiplier": 0.25,
+        "thReqCredits": 50,
+        "recCreatedUserId": "44"
+      },
+      {
+        "cityId": 1,
+        "corporateName": "Sparrowz Hunts",
+        "corporateId": 2,
+        "treasureHuntName": "Discover Battle Tanks",
+        "androidMinAppVersion": "1",
+        "iosMinAppVersion": "1",
+        "treasureHuntId": 61,
+        "treasureHuntDescription": "Sparrowz has flown around the city and created clues for battle tanks stationed in the city.<BR/><BR/>Cycle for 10KMs and enjoy the hunt.",
+        "geoLocationDetails": {
+          "geoId": 1,
+          "latitude": "12.958524",
+          "longitude": "77.638310",
+          "fenceRadius": 50
+        },
+        "treasureHuntImgUrl": [
+          "http://static.sparrowzapp.com/images/Bengaluru/Jan26BattleTanks/Discover_Battle_Tanks.jpg"
+        ],
+        "treasureHuntTags": [
+          {
+            "tagId": 90,
+            "tagName": "JaiHind"
+          }
+        ],
+        "approxTimeToPlay": 120,
+        "creditsMultiplier": 1,
+        "thReqCredits": 750,
+        "recCreatedUserId": "44"
+      },
+      {
+        "cityId": 1,
+        "corporateName": "Sparrowz Hunts",
+        "corporateId": 2,
+        "treasureHuntName": "Lalbagh Trail",
+        "androidMinAppVersion": "1",
+        "iosMinAppVersion": "1",
+        "treasureHuntId": 60,
+        "treasureHuntDescription": "Treasure hunt to tickle your knowledge of lalbagh garden.",
+        "geoLocationDetails": {
+          "geoId": 34,
+          "latitude": "12.949845",
+          "longitude": "77.586590",
+          "fenceRadius": 300
+        },
+        "treasureHuntImgUrl": [
+          "http://static.sparrowzapp.com/images/Bengaluru/Lalbagh/Lalbagh_Trail.jpg"
+        ],
+        "treasureHuntTags": [
+          {
+            "tagId": 89,
+            "tagName": "GardenWalk"
+          }
+        ],
+        "approxTimeToPlay": 90,
+        "creditsMultiplier": 0.2,
+        "thReqCredits": 0,
+        "recCreatedUserId": "44"
+      },
+      {
+        "cityId": 1,
+        "corporateName": "Sparrowz Hunts",
+        "corporateId": 2,
+        "treasureHuntName": "Bengaluru Selfie Challenge",
+        "androidMinAppVersion": "1",
+        "iosMinAppVersion": "1",
+        "treasureHuntId": 59,
+        "treasureHuntDescription": "Sparrowz takes you to these places within the city that have the most scenic and picturesque backgrounds that will almost be as good as the face in the foreground. Combining natural beauty and architectural wonders with the hustle and bustle of the city these pictures will truly encapsulate you with the glory of Bangalore.So get your phones out, travel through the city and get set to take the best Selfies, that absolutely scream Bangalore.",
+        "geoLocationDetails": {
+          "geoId": 171,
+          "latitude": "12.976901",
+          "longitude": "77.598293",
+          "fenceRadius": 100
+        },
+        "treasureHuntImgUrl": [
+          "http://static.sparrowzapp.com/images/Bengaluru/SelfieChallenge/BangaloreSelfieChallenge1.jpg"
+        ],
+        "treasureHuntTags": [
+          {
+            "tagId": 88,
+            "tagName": "NammaSelfie"
+          }
+        ],
+        "approxTimeToPlay": 180,
+        "creditsMultiplier": 0.25,
+        "thReqCredits": 50,
+        "recCreatedUserId": "44"
+      },
+      {
+        "cityId": 1,
+        "corporateName": "Sparrowz Hunts",
+        "corporateId": 2,
+        "treasureHuntName": "Basavanagudi Temple Trail",
+        "androidMinAppVersion": "1",
+        "iosMinAppVersion": "1",
+        "treasureHuntId": 58,
+        "treasureHuntDescription": "Get ready and go on a spiritual tour or explore the temples which are several decades old.",
+        "geoLocationDetails": {
+          "geoId": 164,
+          "latitude": "12.948204",
+          "longitude": "77.563017",
+          "fenceRadius": 100
+        },
+        "treasureHuntImgUrl": [
+          "http://static.sparrowzapp.com/images/Bengaluru/Basavangudi/TempleTrail/Basavanagudi_Temple_Trail.jpg"
+        ],
+        "treasureHuntTags": [
+          {
+            "tagId": 2,
+            "tagName": "History"
+          },
+          {
+            "tagId": 87,
+            "tagName": "Heritage"
+          }
+        ],
+        "approxTimeToPlay": 120,
+        "creditsMultiplier": 0.25,
+        "thReqCredits": 50,
+        "recCreatedUserId": "44"
+      },
+      {
+        "cityId": 1,
+        "corporateName": "Sparrowz Hunts",
+        "corporateId": 2,
+        "treasureHuntName": "Basavanagudi Food Trail",
+        "androidMinAppVersion": "1",
+        "iosMinAppVersion": "1",
+        "treasureHuntId": 57,
+        "treasureHuntDescription": "Be ready with an empty stomach and an eagerness for sweet and spicy South Indian delicacies with a modern transfusion, as you embark on a gastronomical journey through Basavanagudi’s finest. ",
+        "geoLocationDetails": {
+          "geoId": 160,
+          "latitude": "12.940677",
+          "longitude": "77.573737",
+          "fenceRadius": 100
+        },
+        "treasureHuntImgUrl": [
+          "http://static.sparrowzapp.com/images/Bengaluru/Basavangudi/FoodTrail/BvgFoodTrail_Cover.jpg"
+        ],
+        "treasureHuntTags": [
+          {
+            "tagId": 86,
+            "tagName": "FoodTrail"
+          }
+        ],
+        "approxTimeToPlay": 120,
+        "creditsMultiplier": 0.25,
+        "thReqCredits": 75,
+        "recCreatedUserId": "44"
+      },
+      {
+        "cityId": 2,
+        "corporateName": "Marriott Hotels",
+        "corporateId": 6,
+        "treasureHuntName": "Concierge Mate",
+        "androidMinAppVersion": "1",
+        "iosMinAppVersion": "1",
+        "treasureHuntId": 55,
+        "treasureHuntDescription": "Desinged to offer a quick tour of fort kochi's highlight locations. Enjoy!",
+        "geoLocationDetails": {
+          "geoId": 23,
+          "latitude": "9.968258",
+          "longitude": "76.243270",
+          "fenceRadius": 100
+        },
+        "treasureHuntImgUrl": [
+          "http://static.sparrowzapp.com/images/Kochi/FortKochi/Cheenavala_pic.jpg"
+        ],
+        "treasureHuntTags": [],
+        "approxTimeToPlay": 90,
+        "creditsMultiplier": 0.25,
+        "thReqCredits": 0,
+        "recCreatedUserId": "44"
+      },
+      {
+        "cityId": 1,
+        "corporateName": "Sparrowz Hunts",
+        "corporateId": 2,
+        "treasureHuntName": "Sparrowz Quest @ Cubbon Park",
+        "androidMinAppVersion": "1",
+        "iosMinAppVersion": "1",
+        "treasureHuntId": 53,
+        "treasureHuntDescription": "Hope you have purchased your tickets from <a href=\"http://bit.ly/2ifuHmt\" onclick=\"sparrowzUtil.sparrowzapp_ga('send',{hitType:'event',eventCategory:'Bkg',eventAction:'BMS',eventLabel:'BMS',eventValue:0});\">BookMyShow</a> or <a href=\"http://bit.ly/2hv5wZe\" onclick=\"sparrowzUtil.sparrowzapp_ga('send',{hitType:'event',eventCategory:'Bkg',eventAction:‘EH’,eventLabel:’EH’,eventValue:0});\">EventsHigh</a><BR/><BR/>90-minute Treasure Hunt for all ages at the scenic Cubbon Park is created by Sparrowz Santa.",
+        "geoLocationDetails": {
+          "geoId": 58,
+          "latitude": "12.974599",
+          "longitude": "77.592751",
+          "fenceRadius": 500
+        },
+        "treasureHuntImgUrl": [
+          "http://static.sparrowzapp.com/images/Bengaluru/Cubbon_Challenge/PosterCubbonQuest.jpg"
+        ],
+        "treasureHuntTags": [
+          {
+            "tagId": 79,
+            "tagName": "WeekendChallenge"
+          },
+          {
+            "tagId": 80,
+            "tagName": "CubbonSundays"
+          }
+        ],
+        "approxTimeToPlay": 90,
+        "creditsMultiplier": 1,
+        "thReqCredits": 0,
+        "recCreatedUserId": "309"
+      },
+      {
+        "cityId": 1,
+        "corporateName": "Sparrowz Hunts",
+        "corporateId": 2,
+        "treasureHuntName": "Discover Domluru Challenge",
+        "androidMinAppVersion": "1",
+        "iosMinAppVersion": "1",
+        "treasureHuntId": 47,
+        "treasureHuntDescription": "Explore Bangalore's oldest modern area - Domlur",
+        "geoLocationDetails": {
+          "geoId": 1,
+          "latitude": "12.958524",
+          "longitude": "77.638310",
+          "fenceRadius": 50
+        },
+        "treasureHuntImgUrl": [
+          "http://static.sparrowzapp.com/images/Bengaluru/Domlur/DomlurChallenge/Domlur_cover1.jpg"
+        ],
+        "treasureHuntTags": [
+          {
+            "tagId": 76,
+            "tagName": "Dommaluru"
+          },
+          {
+            "tagId": 77,
+            "tagName": "History"
+          },
+          {
+            "tagId": 78,
+            "tagName": "BangaloreMilitary"
+          }
+        ],
+        "approxTimeToPlay": 45,
+        "creditsMultiplier": 0.5,
+        "thReqCredits": 50,
+        "recCreatedUserId": "44"
+      },
+      {
+        "cityId": 7,
+        "corporateName": "Sparrowz Hunts",
+        "corporateId": 2,
+        "treasureHuntName": "Explore T-Hub",
+        "androidMinAppVersion": "1",
+        "iosMinAppVersion": "1",
+        "treasureHuntId": 46,
+        "treasureHuntDescription": "Explore the India's largest incubator for Startups.",
+        "geoLocationDetails": {
+          "geoId": 123,
+          "latitude": "17.445544",
+          "longitude": "78.348844",
+          "fenceRadius": 300
+        },
+        "treasureHuntImgUrl": [
+          "http://static.sparrowzapp.com/images/Hyderabad/THub/DemoGame/THub_Cover.jpg"
+        ],
+        "treasureHuntTags": [
+          {
+            "tagId": 73,
+            "tagName": "THub"
+          },
+          {
+            "tagId": 74,
+            "tagName": "Startup"
+          },
+          {
+            "tagId": 75,
+            "tagName": "VenueDiscovery"
+          }
+        ],
+        "approxTimeToPlay": 30,
+        "creditsMultiplier": 0.1,
+        "thReqCredits": 0,
+        "recCreatedUserId": "627"
+      },
+      {
+        "cityId": 1,
+        "corporateName": "Sparrowz Hunts",
+        "corporateId": 2,
+        "treasureHuntName": "Explore Rasta Cafe",
+        "androidMinAppVersion": "1",
+        "iosMinAppVersion": "1",
+        "treasureHuntId": 45,
+        "treasureHuntDescription": "Rasta cafe is an hour long drive from the city and a 24 hour open cafe based on the theme of Rastafari culture. Explore and win exciting rewards",
+        "geoLocationDetails": {
+          "geoId": 122,
+          "latitude": "12.766720",
+          "longitude": "77.332035",
+          "fenceRadius": 300
+        },
+        "treasureHuntImgUrl": [
+          "http://static.sparrowzapp.com/images/Bengaluru/RastaCafe/DemoGame/RastaGame_Cover1.jpg"
+        ],
+        "treasureHuntTags": [
+          {
+            "tagId": 69,
+            "tagName": "HighwayCafe"
+          },
+          {
+            "tagId": 70,
+            "tagName": "SishaCafe"
+          },
+          {
+            "tagId": 72,
+            "tagName": "ShishaCafe"
+          }
+        ],
+        "approxTimeToPlay": 45,
+        "creditsMultiplier": 0,
+        "thReqCredits": 10,
+        "recCreatedUserId": "309"
+      },
+      {
+        "cityId": 19,
+        "corporateName": "Sparrowz Hunts",
+        "corporateId": 2,
+        "treasureHuntName": "Srirangapattana Heritage",
+        "androidMinAppVersion": "1",
+        "iosMinAppVersion": "1",
+        "treasureHuntId": 43,
+        "treasureHuntDescription": "Explore the heritage treasures of Srirangapattana in our Namma Cycle.",
+        "geoLocationDetails": {
+          "geoId": 120,
+          "latitude": "12.421161",
+          "longitude": "76.692044",
+          "fenceRadius": 300
+        },
+        "treasureHuntImgUrl": [
+          "http://static.sparrowzapp.com/images/NammaCycle/SriRangaPatna/SPCover.jpg"
+        ],
+        "treasureHuntTags": [
+          {
+            "tagId": 65,
+            "tagName": "Dussehra"
+          },
+          {
+            "tagId": 66,
+            "tagName": "NammaCycle"
+          },
+          {
+            "tagId": 67,
+            "tagName": "HeritageMysuru"
+          }
+        ],
+        "approxTimeToPlay": 90,
+        "creditsMultiplier": 0.25,
+        "thReqCredits": 0,
+        "recCreatedUserId": "608"
+      },
+      {
+        "cityId": 17,
+        "corporateName": "GoUNESCO",
+        "corporateId": 5,
+        "treasureHuntName": "Explore Heritage Rome ",
+        "androidMinAppVersion": "1",
+        "iosMinAppVersion": "1",
+        "treasureHuntId": 37,
+        "treasureHuntDescription": "Explore Rome Through the Lens of Pop Culture and History",
+        "geoLocationDetails": {
+          "geoId": 105,
+          "latitude": "41.8986108",
+          "longitude": "12.476872",
+          "fenceRadius": 400
+        },
+        "treasureHuntImgUrl": [
+          "http://static.sparrowzapp.com/images/MakeHeritageFun/Rome/Rome_Cover.jpg"
+        ],
+        "treasureHuntTags": [
+          {
+            "tagId": 51,
+            "tagName": "MakeHeritageFun1"
+          },
+          {
+            "tagId": 52,
+            "tagName": "Sept25"
+          },
+          {
+            "tagId": 60,
+            "tagName": "Rome"
+          }
+        ],
+        "approxTimeToPlay": 90,
+        "creditsMultiplier": 0.25,
+        "thReqCredits": 0,
+        "recCreatedUserId": "309"
+      },
+      {
+        "cityId": 16,
+        "corporateName": "GoUNESCO",
+        "corporateId": 5,
+        "treasureHuntName": "Byblos Heritage treasure",
+        "androidMinAppVersion": "1",
+        "iosMinAppVersion": "1",
+        "treasureHuntId": 36,
+        "treasureHuntDescription": "Byblos is a Mediterranean city in the Mount Lebanon Governorate, Lebanon. It is believed to have been occupied first between 8800 and 7000 BC.It is one of the cities suggested as the oldest continuously inhabited city in the world[citation needed] and the site has been continuously inhabited since 5000 BC. Play this treasure hunt and go to the heritage sites.",
+        "geoLocationDetails": {
+          "geoId": 99,
+          "latitude": "34.123022",
+          "longitude": "35.651977",
+          "fenceRadius": 300
+        },
+        "treasureHuntImgUrl": [
+          "http://static.sparrowzapp.com/images/MakeHeritageFun/Byblos/ByblosCover.jpg"
+        ],
+        "treasureHuntTags": [
+          {
+            "tagId": 51,
+            "tagName": "MakeHeritageFun1"
+          },
+          {
+            "tagId": 52,
+            "tagName": "Sept25"
+          },
+          {
+            "tagId": 59,
+            "tagName": "Byblos"
+          }
+        ],
+        "approxTimeToPlay": 60,
+        "creditsMultiplier": 0.25,
+        "thReqCredits": 0,
+        "recCreatedUserId": "309"
+      },
+      {
+        "cityId": 1,
+        "corporateName": "Sparrowz Hunts",
+        "corporateId": 2,
+        "treasureHuntName": "Explore 'The Black Pearl'",
+        "androidMinAppVersion": "1",
+        "iosMinAppVersion": "1",
+        "treasureHuntId": 34,
+        "treasureHuntDescription": "India's largest pirate themed restaurant and Bangalore's coolest hangout place is now hosting a special treasure hunt to make it more memorable. Play and win exciting rewards.",
+        "geoLocationDetails": {
+          "geoId": 97,
+          "latitude": "12.934466",
+          "longitude": "77.616056",
+          "fenceRadius": 300
+        },
+        "treasureHuntImgUrl": [
+          "http://static.sparrowzapp.com/images/Bengaluru/BlackPearl/BlackPearl_cover1.jpg"
+        ],
+        "treasureHuntTags": [
+          {
+            "tagId": 55,
+            "tagName": "Kormangala"
+          },
+          {
+            "tagId": 56,
+            "tagName": "PirateThemed"
+          },
+          {
+            "tagId": 57,
+            "tagName": "AdventureMeal"
+          }
+        ],
+        "approxTimeToPlay": 30,
+        "creditsMultiplier": 0,
+        "thReqCredits": 50,
+        "recCreatedUserId": "309"
+      },
+      {
+        "cityId": 13,
+        "corporateName": "GoUNESCO",
+        "corporateId": 5,
+        "treasureHuntName": "Patiala Gedhi Heritage",
+        "androidMinAppVersion": "1",
+        "iosMinAppVersion": "1",
+        "treasureHuntId": 32,
+        "treasureHuntDescription": "The Heritage treasure hunt of Patiala is planned to provide a glimpse into the glorious and valiant past and cherish memories of religious serenity and architectural beauty of which the present city of Patiala is proud.",
+        "geoLocationDetails": {
+          "geoId": 95,
+          "latitude": "30.320166",
+          "longitude": "76.401181",
+          "fenceRadius": 200
+        },
+        "treasureHuntImgUrl": [
+          "http://static.sparrowzapp.com/images/MakeHeritageFun/Patiala/PatialaCover_Fndtn.jpg"
+        ],
+        "treasureHuntTags": [
+          {
+            "tagId": 51,
+            "tagName": "MakeHeritageFun1"
+          },
+          {
+            "tagId": 52,
+            "tagName": "Sept25"
+          },
+          {
+            "tagId": 53,
+            "tagName": "Patiala"
+          }
+        ],
+        "approxTimeToPlay": 90,
+        "creditsMultiplier": 0.25,
+        "thReqCredits": 0,
+        "recCreatedUserId": "309"
+      },
+      {
+        "cityId": 12,
+        "corporateName": "GoUNESCO",
+        "corporateId": 5,
+        "treasureHuntName": "UWI Mona Heritage Trails",
+        "androidMinAppVersion": "1",
+        "iosMinAppVersion": "1",
+        "treasureHuntId": 31,
+        "treasureHuntDescription": "UWI Mona Heritage Trails",
+        "geoLocationDetails": {
+          "geoId": 94,
+          "latitude": "18.0065871",
+          "longitude": "-76.7489647",
+          "fenceRadius": 200
+        },
+        "treasureHuntImgUrl": [
+          "http://static.sparrowzapp.com/images/MakeHeritageFun/Jamaica/Jamaica.jpg"
+        ],
+        "treasureHuntTags": [
+          {
+            "tagId": 50,
+            "tagName": "Kingston"
+          },
+          {
+            "tagId": 51,
+            "tagName": "MakeHeritageFun1"
+          },
+          {
+            "tagId": 52,
+            "tagName": "Sept25"
+          }
+        ],
+        "approxTimeToPlay": 90,
+        "creditsMultiplier": 0.25,
+        "thReqCredits": 0,
+        "recCreatedUserId": "309"
+      },
+      {
+        "cityId": 11,
+        "corporateName": "Sparrowz Hunts",
+        "corporateId": 2,
+        "treasureHuntName": "Vantage of Christ Redeemer",
+        "androidMinAppVersion": "1",
+        "iosMinAppVersion": "1",
+        "treasureHuntId": 29,
+        "treasureHuntDescription": "Christ the redeemer is one of the New Seven Wonders of the World. As such, the Cristo Redentor statue in Rio De Janeiro, Brazil, is photographed by thousands each year. Christ the Redeemer statue speaks a bit differently to each photographer who captures the image as seen in their magnificent mind’s eye. This game helps you to get the best Christ Redeemer views from the city.",
+        "geoLocationDetails": {
+          "geoId": 68,
+          "latitude": "-22.951925",
+          "longitude": "-43.210036",
+          "fenceRadius": 1000
+        },
+        "treasureHuntImgUrl": [
+          "http://static.sparrowzapp.com/images/Rio_Olympics/Christ_Vantage/vantageCoverT.jpg"
+        ],
+        "treasureHuntTags": [
+          {
+            "tagId": 44,
+            "tagName": "ChristRedeemer"
+          },
+          {
+            "tagId": 45,
+            "tagName": "ChristViews"
+          },
+          {
+            "tagId": 46,
+            "tagName": "PhotoPointsOfChristRedeemer"
+          }
+        ],
+        "approxTimeToPlay": 90,
+        "creditsMultiplier": 0.25,
+        "thReqCredits": 0,
+        "recCreatedUserId": "309"
+      },
+      {
+        "cityId": 11,
+        "corporateName": "Sparrowz Hunts",
+        "corporateId": 2,
+        "treasureHuntName": "Explore Centro By Walk",
+        "androidMinAppVersion": "1",
+        "iosMinAppVersion": "1",
+        "treasureHuntId": 24,
+        "treasureHuntDescription": "Explore City Centre/Centro by walk. Takes around 90 minutes and revels some historic places in city centro",
+        "geoLocationDetails": {
+          "geoId": 59,
+          "latitude": "-22.903891",
+          "longitude": "-43.173793",
+          "fenceRadius": 300
+        },
+        "treasureHuntImgUrl": [
+          "http://static.sparrowzapp.com/images/Rio_Olympics/Centro_Walk/CentroCover1.jpg"
+        ],
+        "treasureHuntTags": [
+          {
+            "tagId": 36,
+            "tagName": "RioCentro"
+          },
+          {
+            "tagId": 37,
+            "tagName": "OldCityWalk"
+          }
+        ],
+        "approxTimeToPlay": 90,
+        "creditsMultiplier": 0.25,
+        "thReqCredits": 0,
+        "recCreatedUserId": "309"
+      },
+      {
+        "cityId": 11,
+        "corporateName": "Sparrowz Hunts",
+        "corporateId": 2,
+        "treasureHuntName": "Rio Marathon Route Hunt",
+        "androidMinAppVersion": "1",
+        "iosMinAppVersion": "1",
+        "treasureHuntId": 23,
+        "treasureHuntDescription": "Explore the Scenic and Historic Rio Marathon route. <BR/><BR/>Starting in the Sambódromo, home to the world-famous Rio Carnival parades, the race continued on two of the city's most imposing streets through the heart of Rio's historic centre, down to Flamengo Park and Botafogo beach and then back to the city centre and the port area. <BR/><BR/>Covers approximately around 8KMs and takes around 3 hours. Rent a bike or take a walk.",
+        "geoLocationDetails": {
+          "geoId": 50,
+          "latitude": "-22.911255",
+          "longitude": "-43.196772",
+          "fenceRadius": 200
+        },
+        "treasureHuntImgUrl": [
+          "http://static.sparrowzapp.com/images/Rio_Olympics/Marathon_Route/MarathonCover.jpg"
+        ],
+        "treasureHuntTags": [
+          {
+            "tagId": 33,
+            "tagName": "RioMarathonRoute"
+          },
+          {
+            "tagId": 34,
+            "tagName": "ScenicRoute"
+          },
+          {
+            "tagId": 35,
+            "tagName": "WalkLikeAMarathoner"
+          }
+        ],
+        "approxTimeToPlay": 240,
+        "creditsMultiplier": 0.25,
+        "thReqCredits": 0,
+        "recCreatedUserId": "309"
+      },
+      {
+        "cityId": 11,
+        "corporateName": "Sparrowz Hunts",
+        "corporateId": 2,
+        "treasureHuntName": "IPanema Street Hunt",
+        "androidMinAppVersion": "1",
+        "iosMinAppVersion": "1",
+        "treasureHuntId": 22,
+        "treasureHuntDescription": "Explore the IPanema streets. Ipanema is a neighborhood that summarizes the best Rio de Janeiro has to offer. Walk through the streets and find out the treasure places. Ipanema is known for its lively night life scene and lovely beaches.",
+        "geoLocationDetails": {
+          "geoId": 45,
+          "latitude": "-22.983919",
+          "longitude": "-43.213590",
+          "fenceRadius": 200
+        },
+        "treasureHuntImgUrl": [
+          "http://static.sparrowzapp.com/images/Rio_Olympics/iPanema_Street/iPanema1.jpg"
+        ],
+        "treasureHuntTags": [
+          {
+            "tagId": 31,
+            "tagName": "IPanemaStreet"
+          },
+          {
+            "tagId": 32,
+            "tagName": "Save$79"
+          },
+          {
+            "tagId": 28,
+            "tagName": "OldRio"
+          }
+        ],
+        "approxTimeToPlay": 120,
+        "creditsMultiplier": 0.25,
+        "thReqCredits": 0,
+        "recCreatedUserId": "309"
+      },
+      {
+        "cityId": 11,
+        "corporateName": "Sparrowz Hunts",
+        "corporateId": 2,
+        "treasureHuntName": "Old Rio By Foot",
+        "androidMinAppVersion": "1",
+        "iosMinAppVersion": "1",
+        "treasureHuntId": 21,
+        "treasureHuntDescription": "Take an afternoon sightseeing tour of Old Rio on foot, and get a feeling for the legends and history woven around the narrow streets and superb baroque buildings of downtown Rio de Janeiro.You'll gain unforgettable insights into Rio and its history",
+        "geoLocationDetails": {
+          "geoId": 41,
+          "latitude": "-22.896830",
+          "longitude": "-43.177914",
+          "fenceRadius": 200
+        },
+        "treasureHuntImgUrl": [
+          "http://static.sparrowzapp.com/images/Rio_Olympics/OldRio_ByFoot/Rio_Old.JPG"
+        ],
+        "treasureHuntTags": [
+          {
+            "tagId": 28,
+            "tagName": "OldRio"
+          },
+          {
+            "tagId": 29,
+            "tagName": "RioOlympics"
+          },
+          {
+            "tagId": 30,
+            "tagName": "RioVintage"
+          }
+        ],
+        "approxTimeToPlay": 180,
+        "creditsMultiplier": 0.25,
+        "thReqCredits": 0,
+        "recCreatedUserId": "309"
+      },
+      {
+        "cityId": 1,
+        "corporateName": "Sparrowz Hunts",
+        "corporateId": 2,
+        "treasureHuntName": "Malleswaram GO Challenge",
+        "androidMinAppVersion": "1",
+        "iosMinAppVersion": "1",
+        "treasureHuntId": 15,
+        "treasureHuntDescription": "Treasure hunt designed to find all the highlight places of Malleshwaram",
+        "geoLocationDetails": {
+          "geoId": 35,
+          "latitude": "13.004327",
+          "longitude": "77.572421",
+          "fenceRadius": 200
+        },
+        "treasureHuntImgUrl": [
+          "http://static.sparrowzapp.com/images/Bengaluru/Malleshwaram/Malleswaram_cover1.jpg"
+        ],
+        "treasureHuntTags": [
+          {
+            "tagId": 23,
+            "tagName": "HeritageBengaluru"
+          },
+          {
+            "tagId": 24,
+            "tagName": "OldCityBengaluru"
+          }
+        ],
+        "approxTimeToPlay": 90,
+        "creditsMultiplier": 0.25,
+        "thReqCredits": 50,
+        "recCreatedUserId": "309"
+      },
+      {
+        "cityId": 9,
+        "corporateName": "Sparrowz Hunts",
+        "corporateId": 2,
+        "treasureHuntName": "Highlights of Dubai Mall",
+        "androidMinAppVersion": "1",
+        "iosMinAppVersion": "1",
+        "treasureHuntId": 12,
+        "treasureHuntDescription": "Explore Dubai Mall",
+        "geoLocationDetails": {
+          "geoId": 65,
+          "latitude": "25.198559",
+          "longitude": "55.279603",
+          "fenceRadius": 500
+        },
+        "treasureHuntImgUrl": [
+          "http://static.sparrowzapp.com/images/Dubai/DubaiMall/DubaiMallCover.jpg"
+        ],
+        "treasureHuntTags": [
+          {
+            "tagId": 13,
+            "tagName": "Dubai"
+          },
+          {
+            "tagId": 14,
+            "tagName": "DubaiMall"
+          },
+          {
+            "tagId": 15,
+            "tagName": "ExploreDubai"
+          }
+        ],
+        "approxTimeToPlay": 90,
+        "creditsMultiplier": 0.25,
+        "thReqCredits": 0,
+        "recCreatedUserId": "309"
+      },
+      {
+        "cityId": 5,
+        "corporateName": "Sparrowz Hunts",
+        "corporateId": 2,
+        "treasureHuntName": "Vantage Points of Taj Mahal",
+        "androidMinAppVersion": "1",
+        "iosMinAppVersion": "1",
+        "treasureHuntId": 11,
+        "treasureHuntDescription": "Gives you the vital Vantage points to get a view of Taj Mahal from outside.",
+        "geoLocationDetails": {
+          "geoId": 30,
+          "latitude": "27.180962",
+          "longitude": "78.017836",
+          "fenceRadius": 300
+        },
+        "treasureHuntImgUrl": [
+          "http://static.sparrowzapp.com/images/Agra/AgraTopView.jpg"
+        ],
+        "treasureHuntTags": [
+          {
+            "tagId": 1,
+            "tagName": "India2"
+          },
+          {
+            "tagId": 3,
+            "tagName": "Mughal"
+          },
+          {
+            "tagId": 11,
+            "tagName": "Selfie"
+          }
+        ],
+        "approxTimeToPlay": 90,
+        "creditsMultiplier": 0,
+        "thReqCredits": 0,
+        "recCreatedUserId": "309"
+      },
+      {
+        "cityId": 4,
+        "corporateName": "Sparrowz Hunts",
+        "corporateId": 2,
+        "treasureHuntName": "Photo Points in Mumbai",
+        "androidMinAppVersion": "1",
+        "iosMinAppVersion": "1",
+        "treasureHuntId": 10,
+        "treasureHuntDescription": "Photo Points in Mumbai",
+        "geoLocationDetails": {
+          "geoId": 29,
+          "latitude": "18.939866",
+          "longitude": "72.835441",
+          "fenceRadius": 250
+        },
+        "treasureHuntImgUrl": [
+          "http://static.sparrowzapp.com/images/Mumbai/Mumbai.jpg"
+        ],
+        "treasureHuntTags": [
+          {
+            "tagId": 10,
+            "tagName": "Mumbai"
+          },
+          {
+            "tagId": 11,
+            "tagName": "Selfie"
+          },
+          {
+            "tagId": 12,
+            "tagName": "India"
+          }
+        ],
+        "approxTimeToPlay": 45,
+        "creditsMultiplier": 0,
+        "thReqCredits": 0,
+        "recCreatedUserId": "309"
+      },
+      {
+        "cityId": 3,
+        "corporateName": "Sparrowz Hunts",
+        "corporateId": 2,
+        "treasureHuntName": "Explore Qutub Minar",
+        "androidMinAppVersion": "1",
+        "iosMinAppVersion": "1",
+        "treasureHuntId": 9,
+        "treasureHuntDescription": "A quick short game to explore hidden facts about Qutub minar",
+        "geoLocationDetails": {
+          "geoId": 28,
+          "latitude": "28.524405",
+          "longitude": "77.185467",
+          "fenceRadius": 250
+        },
+        "treasureHuntImgUrl": [
+          "http://static.sparrowzapp.com/images/Delhi/Qutub/Qutub_THImage_web.jpg"
+        ],
+        "treasureHuntTags": [
+          {
+            "tagId": 8,
+            "tagName": "Delhi"
+          },
+          {
+            "tagId": 9,
+            "tagName": "QutubMinar"
+          }
+        ],
+        "approxTimeToPlay": 30,
+        "creditsMultiplier": 0,
+        "thReqCredits": 0,
+        "recCreatedUserId": "309"
+      },
+      {
+        "cityId": 10,
+        "corporateName": "Sparrowz Hunts",
+        "corporateId": 2,
+        "treasureHuntName": "Mountain View",
+        "androidMinAppVersion": "1",
+        "iosMinAppVersion": "1",
+        "treasureHuntId": 2,
+        "treasureHuntDescription": "Hello there!. Treasure hunt for Mountain View City. A sample of what our App can create with crowd sourced data and technology intelligence.*",
+        "geoLocationDetails": {
+          "geoId": 39,
+          "latitude": "37.419378",
+          "longitude": "-122.087494",
+          "fenceRadius": 200
+        },
+        "treasureHuntImgUrl": [
+          "http://static.sparrowzapp.com/images/USA/CA/MV-CA.jpg"
+        ],
+        "treasureHuntTags": [
+          {
+            "tagId": 26,
+            "tagName": "Technology Tour"
+          },
+          {
+            "tagId": 27,
+            "tagName": "YC"
+          }
+        ],
+        "approxTimeToPlay": 120,
+        "creditsMultiplier": 0,
+        "thReqCredits": 0,
+        "recCreatedUserId": "309"
+      }
+    ]
+  }
+}

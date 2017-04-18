@@ -1,0 +1,367 @@
+{
+  "header": {
+    "status": {
+      "statusCode": 0,
+      "statusMessage": "Browse TreasureHunts List Found"
+    }
+  },
+  "body": {
+    "treasureHunts": [
+      {
+        "cityId": 1,
+        "corporateName": "Sparrowz Hunts",
+        "corporateId": 2,
+        "treasureHuntName": "Find Lakes and Click Selfies",
+        "androidMinAppVersion": "1",
+        "iosMinAppVersion": "1",
+        "treasureHuntId": 63,
+        "treasureHuntDescription": "The city once had 280-285 lakes of which 7 cannot be traced, 7 are reduced to small pools of water, 18 have been unauthorised encroached and several other lakes encroached for urban infrastructure and as result, in the heart of the city only 17 good lakes exist as against 51 healthy lakes in 1985.Many lakes are in fairly advanced state of deterioration.<BR/><BR/>Of the several freshwater lakes we take you to the notable ones in the city.",
+        "geoLocationDetails": {
+          "geoId": 292,
+          "latitude": "12.905159",
+          "longitude": "77.614943",
+          "fenceRadius": 300
+        },
+        "treasureHuntImgUrl": [
+          "http://static.sparrowzapp.com/images/Bengaluru/BangaloreLakes/Bangalore_Lake.jpg"
+        ],
+        "treasureHuntTags": [
+          {
+            "tagId": 91,
+            "tagName": "Lakes&Selfies"
+          }
+        ],
+        "approxTimeToPlay": 180,
+        "creditsMultiplier": 0.25,
+        "thReqCredits": 50,
+        "recCreatedUserId": "44"
+      },
+      {
+        "cityId": 1,
+        "corporateName": "Sparrowz Hunts",
+        "corporateId": 2,
+        "treasureHuntName": "Discover Battle Tanks",
+        "androidMinAppVersion": "1",
+        "iosMinAppVersion": "1",
+        "treasureHuntId": 61,
+        "treasureHuntDescription": "Sparrowz has flown around the city and created clues for battle tanks stationed in the city.<BR/><BR/>Cycle for 10KMs and enjoy the hunt.",
+        "geoLocationDetails": {
+          "geoId": 1,
+          "latitude": "12.958524",
+          "longitude": "77.638310",
+          "fenceRadius": 50
+        },
+        "treasureHuntImgUrl": [
+          "http://static.sparrowzapp.com/images/Bengaluru/Jan26BattleTanks/Discover_Battle_Tanks.jpg"
+        ],
+        "treasureHuntTags": [
+          {
+            "tagId": 90,
+            "tagName": "JaiHind"
+          }
+        ],
+        "approxTimeToPlay": 120,
+        "creditsMultiplier": 1,
+        "thReqCredits": 750,
+        "recCreatedUserId": "44"
+      },
+      {
+        "cityId": 1,
+        "corporateName": "Sparrowz Hunts",
+        "corporateId": 2,
+        "treasureHuntName": "Lalbagh Trail",
+        "androidMinAppVersion": "1",
+        "iosMinAppVersion": "1",
+        "treasureHuntId": 60,
+        "treasureHuntDescription": "Treasure hunt to tickle your knowledge of lalbagh garden.",
+        "geoLocationDetails": {
+          "geoId": 34,
+          "latitude": "12.949845",
+          "longitude": "77.586590",
+          "fenceRadius": 300
+        },
+        "treasureHuntImgUrl": [
+          "http://static.sparrowzapp.com/images/Bengaluru/Lalbagh/Lalbagh_Trail.jpg"
+        ],
+        "treasureHuntTags": [
+          {
+            "tagId": 89,
+            "tagName": "GardenWalk"
+          }
+        ],
+        "approxTimeToPlay": 90,
+        "creditsMultiplier": 0.2,
+        "thReqCredits": 0,
+        "recCreatedUserId": "44"
+      },
+      {
+        "cityId": 1,
+        "corporateName": "Sparrowz Hunts",
+        "corporateId": 2,
+        "treasureHuntName": "Bengaluru Selfie Challenge",
+        "androidMinAppVersion": "1",
+        "iosMinAppVersion": "1",
+        "treasureHuntId": 59,
+        "treasureHuntDescription": "Sparrowz takes you to these places within the city that have the most scenic and picturesque backgrounds that will almost be as good as the face in the foreground. Combining natural beauty and architectural wonders with the hustle and bustle of the city these pictures will truly encapsulate you with the glory of Bangalore.So get your phones out, travel through the city and get set to take the best Selfies, that absolutely scream Bangalore.",
+        "geoLocationDetails": {
+          "geoId": 171,
+          "latitude": "12.976901",
+          "longitude": "77.598293",
+          "fenceRadius": 100
+        },
+        "treasureHuntImgUrl": [
+          "http://static.sparrowzapp.com/images/Bengaluru/SelfieChallenge/BangaloreSelfieChallenge1.jpg"
+        ],
+        "treasureHuntTags": [
+          {
+            "tagId": 88,
+            "tagName": "NammaSelfie"
+          }
+        ],
+        "approxTimeToPlay": 180,
+        "creditsMultiplier": 0.25,
+        "thReqCredits": 50,
+        "recCreatedUserId": "44"
+      },
+      {
+        "cityId": 1,
+        "corporateName": "Sparrowz Hunts",
+        "corporateId": 2,
+        "treasureHuntName": "Basavanagudi Temple Trail",
+        "androidMinAppVersion": "1",
+        "iosMinAppVersion": "1",
+        "treasureHuntId": 58,
+        "treasureHuntDescription": "Get ready and go on a spiritual tour or explore the temples which are several decades old.",
+        "geoLocationDetails": {
+          "geoId": 164,
+          "latitude": "12.948204",
+          "longitude": "77.563017",
+          "fenceRadius": 100
+        },
+        "treasureHuntImgUrl": [
+          "http://static.sparrowzapp.com/images/Bengaluru/Basavangudi/TempleTrail/Basavanagudi_Temple_Trail.jpg"
+        ],
+        "treasureHuntTags": [
+          {
+            "tagId": 2,
+            "tagName": "History"
+          },
+          {
+            "tagId": 87,
+            "tagName": "Heritage"
+          }
+        ],
+        "approxTimeToPlay": 120,
+        "creditsMultiplier": 0.25,
+        "thReqCredits": 50,
+        "recCreatedUserId": "44"
+      },
+      {
+        "cityId": 1,
+        "corporateName": "Sparrowz Hunts",
+        "corporateId": 2,
+        "treasureHuntName": "Basavanagudi Food Trail",
+        "androidMinAppVersion": "1",
+        "iosMinAppVersion": "1",
+        "treasureHuntId": 57,
+        "treasureHuntDescription": "Be ready with an empty stomach and an eagerness for sweet and spicy South Indian delicacies with a modern transfusion, as you embark on a gastronomical journey through Basavanagudi’s finest. ",
+        "geoLocationDetails": {
+          "geoId": 160,
+          "latitude": "12.940677",
+          "longitude": "77.573737",
+          "fenceRadius": 100
+        },
+        "treasureHuntImgUrl": [
+          "http://static.sparrowzapp.com/images/Bengaluru/Basavangudi/FoodTrail/BvgFoodTrail_Cover.jpg"
+        ],
+        "treasureHuntTags": [
+          {
+            "tagId": 86,
+            "tagName": "FoodTrail"
+          }
+        ],
+        "approxTimeToPlay": 120,
+        "creditsMultiplier": 0.25,
+        "thReqCredits": 75,
+        "recCreatedUserId": "44"
+      },
+      {
+        "cityId": 1,
+        "corporateName": "Sparrowz Hunts",
+        "corporateId": 2,
+        "treasureHuntName": "Sparrowz Quest @ Cubbon Park",
+        "androidMinAppVersion": "1",
+        "iosMinAppVersion": "1",
+        "treasureHuntId": 53,
+        "treasureHuntDescription": "Hope you have purchased your tickets from <a href=\"http://bit.ly/2ifuHmt\" onclick=\"sparrowzUtil.sparrowzapp_ga('send',{hitType:'event',eventCategory:'Bkg',eventAction:'BMS',eventLabel:'BMS',eventValue:0});\">BookMyShow</a> or <a href=\"http://bit.ly/2hv5wZe\" onclick=\"sparrowzUtil.sparrowzapp_ga('send',{hitType:'event',eventCategory:'Bkg',eventAction:‘EH’,eventLabel:’EH’,eventValue:0});\">EventsHigh</a><BR/><BR/>90-minute Treasure Hunt for all ages at the scenic Cubbon Park is created by Sparrowz Santa.",
+        "geoLocationDetails": {
+          "geoId": 58,
+          "latitude": "12.974599",
+          "longitude": "77.592751",
+          "fenceRadius": 500
+        },
+        "treasureHuntImgUrl": [
+          "http://static.sparrowzapp.com/images/Bengaluru/Cubbon_Challenge/PosterCubbonQuest.jpg"
+        ],
+        "treasureHuntTags": [
+          {
+            "tagId": 79,
+            "tagName": "WeekendChallenge"
+          },
+          {
+            "tagId": 80,
+            "tagName": "CubbonSundays"
+          }
+        ],
+        "approxTimeToPlay": 90,
+        "creditsMultiplier": 1,
+        "thReqCredits": 0,
+        "recCreatedUserId": "309"
+      },
+      {
+        "cityId": 1,
+        "corporateName": "Sparrowz Hunts",
+        "corporateId": 2,
+        "treasureHuntName": "Discover Domluru Challenge",
+        "androidMinAppVersion": "1",
+        "iosMinAppVersion": "1",
+        "treasureHuntId": 47,
+        "treasureHuntDescription": "Explore Bangalore's oldest modern area - Domlur",
+        "geoLocationDetails": {
+          "geoId": 1,
+          "latitude": "12.958524",
+          "longitude": "77.638310",
+          "fenceRadius": 50
+        },
+        "treasureHuntImgUrl": [
+          "http://static.sparrowzapp.com/images/Bengaluru/Domlur/DomlurChallenge/Domlur_cover1.jpg"
+        ],
+        "treasureHuntTags": [
+          {
+            "tagId": 76,
+            "tagName": "Dommaluru"
+          },
+          {
+            "tagId": 77,
+            "tagName": "History"
+          },
+          {
+            "tagId": 78,
+            "tagName": "BangaloreMilitary"
+          }
+        ],
+        "approxTimeToPlay": 45,
+        "creditsMultiplier": 0.5,
+        "thReqCredits": 50,
+        "recCreatedUserId": "44"
+      },
+      {
+        "cityId": 1,
+        "corporateName": "Sparrowz Hunts",
+        "corporateId": 2,
+        "treasureHuntName": "Explore Rasta Cafe",
+        "androidMinAppVersion": "1",
+        "iosMinAppVersion": "1",
+        "treasureHuntId": 45,
+        "treasureHuntDescription": "Rasta cafe is an hour long drive from the city and a 24 hour open cafe based on the theme of Rastafari culture. Explore and win exciting rewards",
+        "geoLocationDetails": {
+          "geoId": 122,
+          "latitude": "12.766720",
+          "longitude": "77.332035",
+          "fenceRadius": 300
+        },
+        "treasureHuntImgUrl": [
+          "http://static.sparrowzapp.com/images/Bengaluru/RastaCafe/DemoGame/RastaGame_Cover1.jpg"
+        ],
+        "treasureHuntTags": [
+          {
+            "tagId": 69,
+            "tagName": "HighwayCafe"
+          },
+          {
+            "tagId": 70,
+            "tagName": "SishaCafe"
+          },
+          {
+            "tagId": 72,
+            "tagName": "ShishaCafe"
+          }
+        ],
+        "approxTimeToPlay": 45,
+        "creditsMultiplier": 0,
+        "thReqCredits": 10,
+        "recCreatedUserId": "309"
+      },
+      {
+        "cityId": 1,
+        "corporateName": "Sparrowz Hunts",
+        "corporateId": 2,
+        "treasureHuntName": "Explore 'The Black Pearl'",
+        "androidMinAppVersion": "1",
+        "iosMinAppVersion": "1",
+        "treasureHuntId": 34,
+        "treasureHuntDescription": "India's largest pirate themed restaurant and Bangalore's coolest hangout place is now hosting a special treasure hunt to make it more memorable. Play and win exciting rewards.",
+        "geoLocationDetails": {
+          "geoId": 97,
+          "latitude": "12.934466",
+          "longitude": "77.616056",
+          "fenceRadius": 300
+        },
+        "treasureHuntImgUrl": [
+          "http://static.sparrowzapp.com/images/Bengaluru/BlackPearl/BlackPearl_cover1.jpg"
+        ],
+        "treasureHuntTags": [
+          {
+            "tagId": 55,
+            "tagName": "Kormangala"
+          },
+          {
+            "tagId": 56,
+            "tagName": "PirateThemed"
+          },
+          {
+            "tagId": 57,
+            "tagName": "AdventureMeal"
+          }
+        ],
+        "approxTimeToPlay": 30,
+        "creditsMultiplier": 0,
+        "thReqCredits": 50,
+        "recCreatedUserId": "309"
+      },
+      {
+        "cityId": 1,
+        "corporateName": "Sparrowz Hunts",
+        "corporateId": 2,
+        "treasureHuntName": "Malleswaram GO Challenge",
+        "androidMinAppVersion": "1",
+        "iosMinAppVersion": "1",
+        "treasureHuntId": 15,
+        "treasureHuntDescription": "Treasure hunt designed to find all the highlight places of Malleshwaram",
+        "geoLocationDetails": {
+          "geoId": 35,
+          "latitude": "13.004327",
+          "longitude": "77.572421",
+          "fenceRadius": 200
+        },
+        "treasureHuntImgUrl": [
+          "http://static.sparrowzapp.com/images/Bengaluru/Malleshwaram/Malleswaram_cover1.jpg"
+        ],
+        "treasureHuntTags": [
+          {
+            "tagId": 23,
+            "tagName": "HeritageBengaluru"
+          },
+          {
+            "tagId": 24,
+            "tagName": "OldCityBengaluru"
+          }
+        ],
+        "approxTimeToPlay": 90,
+        "creditsMultiplier": 0.25,
+        "thReqCredits": 50,
+        "recCreatedUserId": "309"
+      }
+    ]
+  }
+}

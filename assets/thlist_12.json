@@ -1,0 +1,49 @@
+{
+  "header": {
+    "status": {
+      "statusCode": 0,
+      "statusMessage": "Browse TreasureHunts List Found"
+    }
+  },
+  "body": {
+    "treasureHunts": [
+      {
+        "cityId": 12,
+        "corporateName": "GoUNESCO",
+        "corporateId": 5,
+        "treasureHuntName": "UWI Mona Heritage Trails",
+        "androidMinAppVersion": "1",
+        "iosMinAppVersion": "1",
+        "treasureHuntId": 31,
+        "treasureHuntDescription": "UWI Mona Heritage Trails",
+        "geoLocationDetails": {
+          "geoId": 94,
+          "latitude": "18.0065871",
+          "longitude": "-76.7489647",
+          "fenceRadius": 200
+        },
+        "treasureHuntImgUrl": [
+          "http://static.sparrowzapp.com/images/MakeHeritageFun/Jamaica/Jamaica.jpg"
+        ],
+        "treasureHuntTags": [
+          {
+            "tagId": 50,
+            "tagName": "Kingston"
+          },
+          {
+            "tagId": 51,
+            "tagName": "MakeHeritageFun1"
+          },
+          {
+            "tagId": 52,
+            "tagName": "Sept25"
+          }
+        ],
+        "approxTimeToPlay": 90,
+        "creditsMultiplier": 0.25,
+        "thReqCredits": 0,
+        "recCreatedUserId": "309"
+      }
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+<div style="background:url(img/textures/linen.png)">
+	<div class="container margin_60" style="min-height:500px;">
+	    <div class="row">
+	    	<center>
+		    	<div class="col-md-3 col-sm-3" ng-repeat="item in corporalData.categories">
+		    		<div class="tour_container">
+		    			<div class="img_container">
+	    					<img ng-src="{{item.bgUrl}}" class="img-responsive" alt="questImages">
+    						<div class="image_overlay">
+							    <div class="overlay_text">
+							    	{{item.story}}  
+							    </div>
+							</div>
+						</div>	
+						<div class="tour_title">
+							<div class="row addCorporateData">
+								<span class="corporateTags" style="font-family:'Raleway';" ng-repeat="tags in item.questTags">#{{tags.tagName}}</span><br/><br/>
+							</div>	
+						</div>
+					</div><!-- End box tour -->
+		    	</div>
+		    </center>	
+	    </div>
+	</div>
+</div>

@@ -1,0 +1,49 @@
+{
+  "header": {
+    "status": {
+      "statusCode": 0,
+      "statusMessage": "Browse TreasureHunts List Found"
+    }
+  },
+  "body": {
+    "treasureHunts": [
+      {
+        "cityId": 16,
+        "corporateName": "GoUNESCO",
+        "corporateId": 5,
+        "treasureHuntName": "Byblos Heritage treasure",
+        "androidMinAppVersion": "1",
+        "iosMinAppVersion": "1",
+        "treasureHuntId": 36,
+        "treasureHuntDescription": "Byblos is a Mediterranean city in the Mount Lebanon Governorate, Lebanon. It is believed to have been occupied first between 8800 and 7000 BC.It is one of the cities suggested as the oldest continuously inhabited city in the world[citation needed] and the site has been continuously inhabited since 5000 BC. Play this treasure hunt and go to the heritage sites.",
+        "geoLocationDetails": {
+          "geoId": 99,
+          "latitude": "34.123022",
+          "longitude": "35.651977",
+          "fenceRadius": 300
+        },
+        "treasureHuntImgUrl": [
+          "http://static.sparrowzapp.com/images/MakeHeritageFun/Byblos/ByblosCover.jpg"
+        ],
+        "treasureHuntTags": [
+          {
+            "tagId": 51,
+            "tagName": "MakeHeritageFun1"
+          },
+          {
+            "tagId": 52,
+            "tagName": "Sept25"
+          },
+          {
+            "tagId": 59,
+            "tagName": "Byblos"
+          }
+        ],
+        "approxTimeToPlay": 60,
+        "creditsMultiplier": 0.25,
+        "thReqCredits": 0,
+        "recCreatedUserId": "309"
+      }
+    ]
+  }
+}

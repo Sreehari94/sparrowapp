@@ -1,0 +1,49 @@
+{
+  "header": {
+    "status": {
+      "statusCode": 0,
+      "statusMessage": "Browse TreasureHunts List Found"
+    }
+  },
+  "body": {
+    "treasureHunts": [
+      {
+        "cityId": 17,
+        "corporateName": "GoUNESCO",
+        "corporateId": 5,
+        "treasureHuntName": "Explore Heritage Rome ",
+        "androidMinAppVersion": "1",
+        "iosMinAppVersion": "1",
+        "treasureHuntId": 37,
+        "treasureHuntDescription": "Explore Rome Through the Lens of Pop Culture and History",
+        "geoLocationDetails": {
+          "geoId": 105,
+          "latitude": "41.8986108",
+          "longitude": "12.476872",
+          "fenceRadius": 400
+        },
+        "treasureHuntImgUrl": [
+          "http://static.sparrowzapp.com/images/MakeHeritageFun/Rome/Rome_Cover.jpg"
+        ],
+        "treasureHuntTags": [
+          {
+            "tagId": 51,
+            "tagName": "MakeHeritageFun1"
+          },
+          {
+            "tagId": 52,
+            "tagName": "Sept25"
+          },
+          {
+            "tagId": 60,
+            "tagName": "Rome"
+          }
+        ],
+        "approxTimeToPlay": 90,
+        "creditsMultiplier": 0.25,
+        "thReqCredits": 0,
+        "recCreatedUserId": "309"
+      }
+    ]
+  }
+}
